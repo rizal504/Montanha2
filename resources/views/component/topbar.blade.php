@@ -20,7 +20,7 @@
                 <a href="contact-1.html">Contact</a>
             </li>
             <li>
-                <a href="/{{ auth()->check() ? 'logout' : 'login' }}">{{ auth()->check() ? 'Logout' : 'Login' }}</a>
+                <a href="/{{ auth()->check() ? '#' : 'login' }}" @if(auth()->check())onclick="document.getElementById('logout').submit()"@endif>{{ auth()->check() ? 'Logout' : 'Login' }}</a>
             </li>
             <!-- Search Icon -->
             <li class="search">
@@ -29,3 +29,6 @@
         </ul>
     </div>
 </div>
+<form id="logout" action="{{ route('logout') }}" method="post">
+    @csrf
+</form>
