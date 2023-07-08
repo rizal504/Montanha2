@@ -176,6 +176,8 @@
                                                 <img src="img/forum/logo-favicon.png" alt=""><a href="#">Monatanha</a>
                                             </div>
                                         </div>
+
+                                        @if(auth()->check())
                                         <div class="action-button-container action-btns">
                                             <button class="action_btn btn-ans ask-btn reply-btn" id="reply-btn">Balas Pertanyaan</button>
                                         </div>
@@ -200,6 +202,7 @@
                                                 </div>
                                             </div>
                                         </div>
+                                        @endif
                                     </div>
 
                                     <!-- All answer -->

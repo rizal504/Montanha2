@@ -308,6 +308,7 @@
                     <div class="modal-body">
                         <form class="d-flex flex-column" action="{{ route('login') }}" method="post">
                             @csrf
+                            <input type="text" name="open_form" class="form-control" value="true" hidden>
                             <div class="form-group">
                                 <label for="exampleInputEmail1">Email address</label>
                                 <input type="email" name="email" class="form-control" id="exampleInputEmail1" aria-describedby="emailHelp">
