@@ -55,6 +55,10 @@
         </span>
     </div>
 
+    <div>
+        <h5>{{ auth()->user() ?? "asd" }}</h5>
+    </div>
+
     <!--  Main Wrap  -->
     <div id="main-wrap" class="full-width">
         <!--  Header & Menu  -->
@@ -72,37 +76,7 @@
                     </div>
                     <!--  END Header Logo  -->
                     <!--  Classic menu, responsive menu classic  -->
-                    <div id="menu-classic">
-                        <div class="menu-holder">
-                            <ul>
-                                <li class="submenu">
-                                    <a href="javascript:void(0)" class="active-item">Home</a>
-                                </li>
-                                <li class="submenu">
-                                    <a href="/gunung">Gunung</a>
-                                </li>
-                                <li>
-                                    <a href="/forum">Forum</a>
-                                </li>
-                                <li class="submenu">
-                                    <a href="/gallery">Gallery</a>
-                                  </li>
-                                <li class="submenu">
-                                    <a href="/blog">Artikel</a>
-                                </li>
-                                <li>
-                                    <a href="contact-1.html">Contact</a>
-                                </li>
-                                <li>
-                                    <a href="/login">Login</a>
-                                </li>
-                                <!-- Search Icon -->
-                                <li class="search">
-                                    <i class="icon ion-ios-search"></i>
-                                </li>
-                            </ul>
-                        </div>
-                    </div>
+                    @include('component.topbar')
                     <!--  END Classic menu, responsive menu classic  -->
                     <!--  Button for Responsive Menu Classic  -->
                     <div id="menu-responsive-classic">

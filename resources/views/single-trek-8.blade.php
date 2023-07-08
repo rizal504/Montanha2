@@ -67,37 +67,7 @@
                         </div>
                         <!--  END Header Logo  -->
                        <!--  Classic menu, responsive menu classic  -->
-                       <div id="menu-classic">
-                            <div class="menu-holder">
-                                <ul>
-                                    <li class="submenu">
-                                        <a href="/montanha">Home</a>
-                                    </li>
-                                    <li class="submenu">
-                                        <a href="javascript:void(0)" class="active-item">Gunung</a>
-                                    </li>
-                                    <li>
-                                        <a href="treks.html">Forum</a>
-                                    </li>
-                                    <li class="submenu">
-                                        <a href="/gallery">Gallery</a>
-                                       </li>
-                                    <li class="submenu">
-                                        <a href="/blog">Artikel</a>
-                                    </li>
-                                    <li>
-                                        <a href="contact-1.html">Contact</a>
-                                    </li>
-                                    <li>
-                                        <a href="/login">Login</a>
-                                    </li>
-                                    <!-- Search Icon -->
-                                    <li class="search">
-                                        <i class="icon ion-ios-search"></i>
-                                    </li>
-                                </ul>
-                            </div>
-                        </div>
+                       @include('component.topbar')
                         <!--  END Classic menu, responsive menu classic  -->
                         <!--  Search Box  -->
                         <div id="search-box" class="full-width">

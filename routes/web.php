@@ -1,5 +1,8 @@
 <?php
 
+use App\Http\Controllers\QuestionAnswerController;
+use App\Http\Controllers\QuestionController;
+use Illuminate\Support\Facades\Auth;
 use Illuminate\Support\Facades\Route;
 
 /*
@@ -13,7 +16,9 @@ use Illuminate\Support\Facades\Route;
 |
 */
 
-Route::get('', function () {
+Auth::routes();
+
+Route::get('/', function () {
     return view('montanha');
 });
 
@@ -29,9 +34,9 @@ Route::get('/gallery', function () {
     return view('gallery');
 });
 
-Route::get('/login', function () {
-    return view('login');
-});
+// Route::get('/login', function () {
+//     return view('login');
+// });
 
 Route::get('/blog', function () {
     return view('blog-classic');
@@ -93,6 +98,14 @@ Route::get('/regis', function () {
     return view('register');
 });
 
-Route::get('/forum', function () {
-    return view('forum');
+// Route::get('/forum', function () {
+//     return view('forum');
+// });
+
+Route::get('/forum', [QuestionController::class, 'index'])->name('forum.index');
+Route::get('/forum/show/{id}', [QuestionController::class, 'show'])->name('forum.show');
+
+Route::group(['middleware' => 'auth'], function() {
+    Route::post('/forum/store', [QuestionController::class, 'store'])->name('forum.store');
+    Route::post('/forum-answer/store', [QuestionAnswerController::class, 'store'])->name('forum-answer.store');
 });
