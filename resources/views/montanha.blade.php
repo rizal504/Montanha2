@@ -55,10 +55,6 @@
         </span>
     </div>
 
-    <div>
-        <h5>{{ auth()->user() ?? "asd" }}</h5>
-    </div>
-
     <!--  Main Wrap  -->
     <div id="main-wrap" class="full-width">
         <!--  Header & Menu  -->
