@@ -98,6 +98,14 @@ Route::get('/regis', function () {
     return view('register');
 });
 
+Route::get('/admin', function () {
+    return view('admin');
+});
+
+Route::get('/from_admin', function () {
+    return view('form_admin');
+});
+
 // Route::get('/forum', function () {
 //     return view('forum');
 // });
