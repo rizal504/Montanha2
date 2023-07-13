@@ -491,7 +491,20 @@
     <script src="assets/js/plugins-scroll.js"></script>
     <script src="assets/js/imagesloaded.min.js"></script>
     <script src="assets/js/pace.min.js"></script>
+    <script src="https://cdn.jsdelivr.net/npm/sweetalert2@11"></script>
     <script src="assets/js/main.js"></script>
 </body>
 
 </html>
+
+<script>
+    $(document).ready(() => {
+        @if(\Session::get('message'))
+        Swal.fire({
+            icon: 'success',
+            title: 'Perhatian',
+            text: '{{ \Session::get('message') }}',
+        })
+        @endif
+    })
+</script>
