@@ -427,7 +427,7 @@
         <!--  Footer. Class fixed for fixed footer  -->
         <footer class="fixed full-width">
             <div class="container">
-                <div class="row no-margin">
+                <div class="row no-margin" style="display: flex;flex-direction: row;justify-content: center;column-gap: 200px;">
                       
                     <div class="col-sm-4 col-md-2 padding-leftright-null">
                         <h6 class="heading white margin-bottom-extrasmall"><u>Contacts</u></h6>
