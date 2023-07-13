@@ -20,7 +20,7 @@ Auth::routes();
 
 Route::get('/', function () {
     return view('montanha');
-});
+})->name('/');
 
 Route::get('/montanha', function () {
     return view('montanha');
