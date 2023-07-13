@@ -108,7 +108,7 @@
                         <li style="background-image:url(assets/img/artikel1.jpg)">
                             <div class="container text text-center">
                                 <h1 class="white margin-bottom-small">Our Blog</h1>
-                                <p class="heading white">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Unde veniam aperiam rerum quis atque, illum.</p>
+                                <p class="heading white">Explore pengalamanmu dengan mendaki gunung di Jawa Tegah</p>
                             </div>
                             <div class="gradient dark"></div>
                         </li>
@@ -181,7 +181,7 @@
                             <!--  END News Section  -->
                         </div>
                         <!--  Right Sidebar  -->
-                        <div class="col-md-4 text">
+                        <!-- <div class="col-md-4 text">
                             <aside class="sidebar">
                                 <div class="widget-wrapper">
                                     <form class="search-form">
@@ -254,11 +254,11 @@
                                     </ul>
                                 </div>
                             </aside>
-                        </div>
+                        </div> -->
                         <!--  END Right Sidebar  -->
                         <div class="row margin-leftright-null">
                             <!--  Navigation  -->
-                            <section id="nav" class="padding-top-null grey-background">
+                            <!-- <section id="nav" class="padding-top-null grey-background">
                                 <div class="row">
                                     <div class="col-xs-6">
                                         <div class="nav-left">
@@ -271,7 +271,7 @@
                                         </div>
                                     </div>
                                 </div>
-                            </section>
+                            </section> -->
                             <!--  END Navigation  -->
                         </div>
                     </div>

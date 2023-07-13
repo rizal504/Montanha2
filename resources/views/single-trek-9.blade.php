@@ -5,7 +5,7 @@
         <meta http-equiv="X-UA-Compatible" content="IE=edge">
         <meta name="viewport" content="width=device-width, initial-scale=1">
         <!-- The above 3 meta tags *must* come first in the head; any other head content must come *after* these tags -->
-        <title>Dolomia HTML Template</title>
+        <title>Gunung Bismo</title>
 
         <!-- Bootstrap -->
         <link rel="stylesheet" href="assets/css/bootstrap/bootstrap.min.css">
@@ -59,10 +59,10 @@
                         <!--  Header Logo  -->
                         <div id="logo">
                             <a class="navbar-brand" href="index.html">
-                                <img src="assets/img/logo_montanha.png" class="normal" alt="logo">
-                                <img src="assets/img/logo_montanha.png" class="retina" alt="logo">
-                                <img src="assets/img/logo_montanha.png" class="normal white-logo" alt="logo">
-                                <img src="assets/img/logo_montanha.png" class="retina white-logo" alt="logo">
+                                <img src="assets/img/logo1.png" class="normal" alt="logo">
+                                <img src="assets/img/logo1.png" class="retina" alt="logo">
+                                <img src="assets/img/logoputih.png" class="normal white-logo" alt="logo">
+                                <img src="assets/img/logo1.png" class="retina white-logo" alt="logo">
                             </a>
                         </div>
                         <!--  END Header Logo  -->
@@ -100,15 +100,15 @@
             </header>
             <!--  END Header & Menu  -->
             
-            <!--  Page Content, class footer-fixed if footer is fixed  -->
-            <div id="page-content" class="header-static footer-fixed">
+           <!--  Page Content, class footer-fixed if footer is fixed  -->
+           <div id="page-content" class="header-static footer-fixed">
                 <!--  Slider  -->
                 <div id="flexslider" class="fullpage-wrap small">
                     <ul class="slides">
-                        <li style="background-image:url(assets/img/foto19.png)">
+                        <li style="background-image:url(assets/img/bisma.png)">
                             <div class="container text text-center">
                                 <h1 class="white margin-bottom-small">Gunung Bismo</h1>
-                                <p class="heading white">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Unde veniam aperiam rerum quis atque, illum.</p>
+                                <p class="heading white">Explore pengalamanmu dengan mendaki gunung di Jawa Tegah</p>
                             </div>
                             <div class="gradient dark"></div>
                         </li>
@@ -126,10 +126,10 @@
                             <!-- About -->
                             <div class="col-lg-6 padding-leftright-null">
                                 <div data-responsive="parent-height" data-responsive-id="adv" class="text padding-lg-bottom-null">
-                                    <h2 class="margin-bottom-null title line left">Beatiful Trek</h2>
-                                    <p class="heading left grey margin-bottom-null">Discover the wild nature</p>
+                                    <h2 class="margin-bottom-null title line left">About Gunung Bismo</h2>
+                                    <p class="heading left grey margin-bottom-null">Let's Explore Gunung Bismo</p>
                                     <div class="padding-onlytop-md">
-                                        <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Vero architecto, nesciunt, modi nam reprehenderit eligendi impedit perferendis consequuntur doloribus aliquid officiis ipsa id asperiores eius magnam ut ducimus ipsum dolor nihil molestias commodi quasi sapiente qui explicabo. Soluta, eum, quia.</p>
+                                        <p>Gunung Bismo atau Gunung Bisma adalah sebuah gunung yang berada di Kabupaten Wonosobo, Provinsi Jawa Tengah. Gunung Bisma masih berada di Pegunungan Komplek Gunung Api Dieng. Secara Administrasi, Gunung Bisma terletak di Kabupaten Wonosobo.</p>
                                     </div>
                                 </div>
                             </div>
@@ -139,10 +139,9 @@
                                     <div class="grey-background box-shadow text responsive-padding-sm">
                                         <!-- Hiker -->
                                         <div class="hiker">
-                                            <img src="assets/img/hiker1.jpg" alt="">
-                                            <h3 class="">Mountain Guide</h3>
-                                            <span class="meta grey">Name: John Doe</span>
-                                            <span class="meta grey">Nation: Italy</span>
+                                            <img src="assets/img/profil.jpeg" alt="">
+                                            <h3 class="">Contact Person</h3>
+                                            <span class="meta grey">CP 1:  0877-3111-1319 (Pos Pendakian)</span>
                                             <ul class="social">
                                                 <li>
                                                     <a href=""><i class="icon ion-social-twitter"></i></a>
@@ -167,39 +166,39 @@
                     <!-- END Section same Height. Child get the parent Height. Set the same id -->
                     <!--  Section Image Background with overlay  -->
                     <div class="row margin-leftright-null grey-background">
-                        <div class="bg-img overlay simple-parallax responsive" style="background-image:url(assets/img/testimonials.jpg)">
+                        <div class="bg-img overlay simple-parallax responsive" style="background-image:url(assets/img/bisma.png)">
                            <div class="container">
                                <!-- Trek data -->
                                <div class="text trek-data text-center">
                                    <div class="col-sm-4 col-md-2">
                                        <i class="pd-icon-money service big margin-bottom-null white"></i>
                                        <em class="color">mdpl</em>
-                                       <h3 class="white">390€</h3>
+                                       <h3 class="white">2365</h3>
                                    </div>
                                    <div class="col-sm-4 col-md-2">
                                        <i class="pd-icon-hour service big margin-bottom-null white"></i>
                                        <em class="color">Status</em>
-                                       <h3 class="white">12/02/2017</h3>
+                                       <h3 class="white">-</h3>
                                    </div>
                                    <div class="col-sm-4 col-md-2">
                                        <i class="pd-icon-camp-bag service big margin-bottom-null white"></i>
                                        <em class="color">Kesulitan</em>
-                                       <h3 class="white">Hight</h3>
+                                       <h3 class="white">Sedang</h3>
                                    </div>
                                    <div class="col-sm-4 col-md-2">
                                        <i class="pd-icon-male service big margin-bottom-null white"></i>
-                                       <em class="color">Solo Trek</em>
-                                       <h3 class="white">-</h3>
+                                       <em class="color">Solo Hiking</em>
+                                       <h3 class="white">YA</h3>
                                    </div>
                                    <div class="col-sm-4 col-md-2">
                                        <i class="pd-icon-watch service big margin-bottom-null white"></i>
                                        <em class="color">Jam</em>
-                                       <h3 class="white">2</h3>
+                                       <h3 class="white">± 4</h3>
                                    </div>
                                    <div class="col-sm-4 col-md-2">
                                        <i class="pd-icon-distance service big margin-bottom-null white"></i>
                                        <em class="color">Jumlah Trek</em>
-                                       <h3 class="white">10,3 Km</h3>
+                                       <h3 class="white">-</h3>
                                    </div>
                                </div>
                                <!-- END Trek data -->
@@ -212,52 +211,28 @@
                         <div class="container">
                             <div class="col-md-12 text padding-bottom-null text-center">
                                 <h2 class="margin-bottom-null title line center">More info</h2>
-                                <p class="heading center grey margin-bottom-null">Lorem ipsum dolor sit amet, consectetur adipisicing elit</p>
+                                <!-- <p class="heading center grey margin-bottom-null">Lorem ipsum dolor sit amet, consectetur adipisicing elit</p> -->
                             </div>
                             <div class="col-md-12 text">
-                                <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut aliquid scire se gaudeant? <b>Immo alio genere;</b> <i>Quod vestri non item.</i> Duo Reges: constructio interrete. Est enim effectrix multarum et magnarum voluptatum. Sed quanta sit alias, nunc tantum possitne esse tanta. <i>Sint ista Graecorum;</i> Consequens enim est et post oritur, ut dixi. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Dolore placeat recusandae doloribus laborum, dignissimos nisi sit ea temporibus ut, accusamus, impedit perferendis deleniti odit! Dicta.</p>
-                                <p><b>Quid ait Aristoteles reliquique Platonis alumni?</b> <a href='#' target='_blank'>Praeteritis, inquit, gaudeo.</a> Cetera illa adhibebat, quibus demptis negat se Epicurus intellegere quid sit bonum. Hoc enim constituto in philosophia constituta sunt omnia. Et non ex maxima parte de tota iudicabis? Tum ille timide vel potius verecunde: Facio, inquit. </p>
+                                <p>Gunung Bismo atau Gunung Bisma adalah sebuah gunung yang berada di Kabupaten Wonosobo, Provinsi Jawa Tengah. Gunung Bisma masih berada di Pegunungan Komplek Gunung Api Dieng. Secara Administrasi, Gunung Bisma terletak di Kabupaten Wonosobo. tepatnya di perbatasan Desa Campursari dengan Desa Sikunang, Kecamatan Kejajar, Kabupaten Wonosobo, Provinsi Jawa Tengah. Gunung Bisma memiliki ketinggian 2.365 meter di atas permukaan air laut Mdpl. Gunung Bisma merupakan bekas gunung api dengan kawah tua yang terpotong membuka kearah tenggara. Lembah yang dulunya merupakan pusat kubah lava gunung Bisma, kini menjadi desa Sikunang yang ada di jalur alternatif menuju Dataran Tinggi Dieng (jalur Sembungan).</p>
+                                <p>Beberapa jalur pendakian Gunung Bisma bisa ditempuh melalui Dusun Pulosari [Basecamp Pendakian Gunung Bismo via Pulosari], Desa Campursari, Kejajar, Wonosobo. Desa Slukatan Kecamatan Mojotengah, desa Deroduwur Kecamatan Mojotengah, desa Sikunang kecamatan Kejajar, maupun via Dusun Depok, Krinjing kecamatan Watumalang.</p>
                                 <h6 class="heading uppercase padding-onlytop-sm">Description Trek</h6>
-                                <p class="padding-onlytop-sm">Summus dolor plures dies manere non potest? <b>Cur deinde Metrodori liberos commendas?</b> Neque enim civitas in seditione beata esse potest nec in discordia dominorum domus; Iam doloris medicamenta illa Epicurea tamquam de narthecio proment: Si gravis, brevis; Sed haec quidem liberius ab eo dicuntur et saepius. <a href='#' target='_blank'>Tubulo putas dicere?</a> Maximas vero virtutes iacere omnis necesse est voluptate dominante. Primum quid tu dicis breve? Ita fit cum gravior, tum etiam splendidior oratio. Quod autem satis est, eo quicquid accessit, nimium est; </p>
-                                <ul class="post margin-bottom">
-                                    <li>Hoc loco discipulos quaerere videtur, ut, qui asoti esse velint, philosophi ante fiant.</li>
-                                    <li>Quid ergo aliud intellegetur nisi uti ne quae pars naturae neglegatur?</li>
-                                    <li>Et quidem Arcesilas tuus, etsi fuit in disserendo pertinacior, tamen noster fuit;</li>
-                                    <li>Quam ob rem tandem, inquit, non satisfacit?</li>
-                                    <li>Ergo ita: non posse honeste vivi, nisi honeste vivatur?</li>
-                                    <li>Videsne igitur Zenonem tuum cum Aristone verbis concinere, re dissidere, cum Aristotele et illis re consentire, verbis discrepare?</li>
-                                    <li>Dat enim intervalla et relaxat.</li>
-                                </ul>
-                                <div class="table-responsive shadow">
-                                    <table class="table">
-                                        <tbody>
-                                            <tr>
-                                                <th>Partecipans</th>
-                                                <th>Start date</th>
-                                                <th>Duration</th>
-                                                <th>Price</th>
-                                            </tr>
-                                            <tr>
-                                                <td>1</td>
-                                                <td>22/08/2017</td>
-                                                <td>1 days</td>
-                                                <td>$230</td>
-                                            </tr>
-                                            <tr>
-                                                <td>4</td>
-                                                <td>28/08/2017</td>
-                                                <td>2 days</td>
-                                                <td>$800</td>
-                                            </tr>
-                                            <tr>
-                                                <td>20</td>
-                                                <td>1/09/2017</td>
-                                                <td>2 days</td>
-                                                <td>$1800</td>
-                                            </tr>
-                                        </tbody>
-                                    </table>
-                                </div>
+                                <p><b>1.Gunung Bismo Via Maron</b></p>
+                                <p>Perjalanan menuju puncak bismo via maron masih tergolong mudah, banyak pendaki yang melalui basecamp maron karena trek pendakian tidak terlalu menguras tenaga. Sepanjang perjalanan pendaki akan melewati perkebunan milik warga.</p>
+                                <p><b>Gunung Bismo via Deroduwur</b></p>
+                                <p>Untuk pendakian Gunung Bismo via deroduwur kalian akan menemui trek yang cukup landai dan disuguhi pemandangan perbukitan yang cukup bagus, kalian akan menjumpai pepohonan dan semak-semak dan ilalang yang masih alami.</p>
+                                <p>Jalur pendakian gunung bismo via Deroduwur biasa disebut dengan jalur Dewa brata karena trek jalur ini didominasi trek yang landai. Pemandangan disekitarnya terdiri dari ilalang, pohon kerucut dan rumput hijau yang masih alami.</p>
+                                <p>Setelah, sampai di pos dua (Hutan Pakis) pendaki akan menghadapi trek pendakian yang berbeda dari pos satu, trek pos dua didominasi trek yang menanjak dan terdapat pepohonan yang rindang sepanjang jalur pendakian.</p>
+                                <p><b>3.Gunung Bismo via Sikunang</b></p>
+                                <p>Untuk pendakian Gunung Bismo via Sikunang pendaki akan menemui trek yang cukup landai dan disuguhi pemandangan perbukitan yang cukup bagus. Pendaki akan menjumpai pepohonan dan semak-semak serta ilalang yang masih alami. Basecamp sikunang masih tergolong sepi karena banyak pendaki yang memilih jalur silandak.</p>
+                                <p>Estiminasi Pendakian Gunung Bismo via Sikunang kurang lebih memakan waktu sekitar 2-4 jam, kalian dapat menempuh pendakian dengan lebih cepat asalkan memiliki fisik yang cukup bagus. Perjalanan untuk mencapai puncak Gunung Bismo trek yang dilalui lebih mudah dan sangat direkomendasikan untuk pendaki pemula.</p>
+                                <p>Selain itu, kalian juga bisa berwisata sekaligus ke kawasan pengunungan Dieng. karena Gunung Bismo masih satu kawasan dengan Pegunungan Dieng.</p>
+                                <p><b>4.Gunung Bismo via Pulosari</b></p>
+                                <p>Jalur pendakian gunung Bismo via Pulosari menjadi jalur yang baru dibuka belum lama ini. Jalur ini memiliki basecamp yang cukup bagus dan rapi. Selain itu di sekitar basecamp terdapat juga warung yang menjual pernak-pernik gunung seperti gantungan kunci, baju, makanan dan minuman.</p>
+                                <p>Jalur bismo via pulosari sekarang mulai dikenal oleh para pendaki, jalur ini memiliki medan yang landai dan beberapa tanjakan. Sesampainya dipuncak, pendaki juga dapat melihat gunung prau, gunung sumbing dan gunung sindoro.</p>
+                                <p><b>5.Gunung Bismo via Silandak</b></p>
+                                <p>Pendakian Gunung Bismo via Silandak pihak warga belum menyediakan basecamp ataupun pos pendakian untuk sampai ke puncak. Perjalanan menuju puncak gunung bismo via jalur silandakmasih tergolong sepi karena belum banyak pendaki yang mengetahui basecamp silandak.</p>
+                                <p>Sepanjang perjalanan pendaki dapat melihat pohon-pohon dan semak, setelah melewati dusun Silandak pendaki masih harus melewati tanah pertanian milik warga setempat. Jalur yang sama ini juga bisa dilewati dari desa di baratnya silandak seperti dari desa Melikan dan Buntu Deroduwur. Setelah melewati tanah pertanian, pendaki akan melewati hutan semak dan ilalang.</p>
                             </div>
                         </div>
                     </div>
@@ -289,13 +264,13 @@
                     <!--  END Share Btn  -->
                     
                     <!-- Call to Action -->
-                    <div class="row text margin-leftright-null color-background">
+                    <!-- <div class="row text margin-leftright-null color-background">
                         <div class="col-md-12 text-center">
                             <h4 class="big white">Would you like more info about this trip?</h4>
                             <h4 class="big margin-bottom-small white">Call us at <a href="" class="btn-pro simple white">+40 45615654</a> or</h4>
                             <a href="#" target="_blank" class="btn-alt small white margin-null active shadow">Contact us</a>
                         </div>
-                    </div>
+                    </div> -->
                     <!-- END Call to Action -->
                 </div>
             </div>

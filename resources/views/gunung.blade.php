@@ -336,7 +336,7 @@
                                                 </div>
                                             </div>
                                         </div>
-                                        <a href="/trek6" class="link"></a>
+                                        <a href="/trek-6" class="link"></a>
                                     </div>
                                 </div>
                                 <div class="item one-item canyoning adventure">

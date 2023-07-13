@@ -5,7 +5,7 @@
         <meta http-equiv="X-UA-Compatible" content="IE=edge">
         <meta name="viewport" content="width=device-width, initial-scale=1">
         <!-- The above 3 meta tags *must* come first in the head; any other head content must come *after* these tags -->
-        <title>Dolomia HTML Template</title>
+        <title>Gunung Andong</title>
 
         <!-- Bootstrap -->
         <link rel="stylesheet" href="assets/css/bootstrap/bootstrap.min.css">
@@ -59,10 +59,10 @@
                         <!--  Header Logo  -->
                         <div id="logo">
                             <a class="navbar-brand" href="index.html">
-                                <img src="assets/img/logo_montanha.png" class="normal" alt="logo">
-                                <img src="assets/img/logo_montanha.png" class="retina" alt="logo">
-                                <img src="assets/img/logo_montanha.png" class="normal white-logo" alt="logo">
-                                <img src="assets/img/logo_montanha.png" class="retina white-logo" alt="logo">
+                                <img src="assets/img/logo1.png" class="normal" alt="logo">
+                                <img src="assets/img/logo1.png" class="retina" alt="logo">
+                                <img src="assets/img/logoputih.png" class="normal white-logo" alt="logo">
+                                <img src="assets/img/logo1.png" class="retina white-logo" alt="logo">
                             </a>
                         </div>
                         <!--  END Header Logo  -->
@@ -105,7 +105,7 @@
                 <!--  Slider  -->
                 <div id="flexslider" class="fullpage-wrap small">
                     <ul class="slides">
-                        <li style="background-image:url(assets/img/foto16.png)">
+                        <li style="background-image:url(assets/img/galer-7.png)">
                             <div class="container text text-center">
                                 <h1 class="white margin-bottom-small">Gunung Andong</h1>
                                 <p class="heading white">Explore pengalamanmu dengan mendaki gunung di Jawa Tegah</p>
@@ -126,10 +126,10 @@
                             <!-- About -->
                             <div class="col-lg-6 padding-leftright-null">
                                 <div data-responsive="parent-height" data-responsive-id="adv" class="text padding-lg-bottom-null">
-                                    <h2 class="margin-bottom-null title line left">Beatiful Trek</h2>
-                                    <p class="heading left grey margin-bottom-null">Discover the wild nature</p>
+                                    <h2 class="margin-bottom-null title line left">About Gunung Andong</h2>
+                                    <p class="heading left grey margin-bottom-null">Let's Explore Gunung Andong</p>
                                     <div class="padding-onlytop-md">
-                                        <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Vero architecto, nesciunt, modi nam reprehenderit eligendi impedit perferendis consequuntur doloribus aliquid officiis ipsa id asperiores eius magnam ut ducimus ipsum dolor nihil molestias commodi quasi sapiente qui explicabo. Soluta, eum, quia.</p>
+                                        <p>Gunung Andong adalah sebuah gunung yang terletak di Provinsi Jawa Tengah, Indonesia. Gunung Andong memiliki keindahan alam yang menarik, dengan pemandangan yang memukau dan udara yang segar. Gunung ini dikenal sebagai salah satu destinasi pendakian yang populer di wilayah tersebut.</p>
                                     </div>
                                 </div>
                             </div>
@@ -139,10 +139,11 @@
                                     <div class="grey-background box-shadow text responsive-padding-sm">
                                         <!-- Hiker -->
                                         <div class="hiker">
-                                            <img src="assets/img/hiker1.jpg" alt="">
-                                            <h3 class="">Contact Person Porter</h3>
-                                            <span class="meta grey">0856-2894-666 (Basecamp Sawit)</span>
-                                            <span class="meta grey">0856-0147-4481 (Basecamp Pendem)</span>
+                                            <img src="assets/img/profil.jpeg" alt="">
+                                            <h3 class="">Contact Person</h3>
+                                            <span class="meta grey">CP 1: 085643039650 (Basecamp Sawit)</span>
+                                            <span class="meta grey">CP 2: 082284401175 (Basecamp Pendem)</span>
+                                            <span class="meta grey">CP 3: 081328871360 (Basecamp Gogik)</span>
                                             <ul class="social">
                                                 <li>
                                                     <a href=""><i class="icon ion-social-twitter"></i></a>
@@ -167,7 +168,7 @@
                     <!-- END Section same Height. Child get the parent Height. Set the same id -->
                     <!--  Section Image Background with overlay  -->
                     <div class="row margin-leftright-null grey-background">
-                        <div class="bg-img overlay simple-parallax responsive" style="background-image:url(assets/img/testimonials.jpg)">
+                        <div class="bg-img overlay simple-parallax responsive" style="background-image:url(assets/img/galer-7.png)">
                            <div class="container">
                                <!-- Trek data -->
                                <div class="text trek-data text-center">
@@ -188,8 +189,8 @@
                                    </div>
                                    <div class="col-sm-4 col-md-2">
                                        <i class="pd-icon-male service big margin-bottom-null white"></i>
-                                       <em class="color">Solo Trek</em>
-                                       <h3 class="white">-</h3>
+                                       <em class="color">Solo Hiking</em>
+                                       <h3 class="white">YA</h3>
                                    </div>
                                    <div class="col-sm-4 col-md-2">
                                        <i class="pd-icon-watch service big margin-bottom-null white"></i>
@@ -212,52 +213,43 @@
                         <div class="container">
                             <div class="col-md-12 text padding-bottom-null text-center">
                                 <h2 class="margin-bottom-null title line center">More info</h2>
-                                <p class="heading center grey margin-bottom-null">Lorem ipsum dolor sit amet, consectetur adipisicing elit</p>
+                                <!-- <p class="heading center grey margin-bottom-null">Lorem ipsum dolor sit amet, consectetur adipisicing elit</p> -->
                             </div>
                             <div class="col-md-12 text">
-                                <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut aliquid scire se gaudeant? <b>Immo alio genere;</b> <i>Quod vestri non item.</i> Duo Reges: constructio interrete. Est enim effectrix multarum et magnarum voluptatum. Sed quanta sit alias, nunc tantum possitne esse tanta. <i>Sint ista Graecorum;</i> Consequens enim est et post oritur, ut dixi. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Dolore placeat recusandae doloribus laborum, dignissimos nisi sit ea temporibus ut, accusamus, impedit perferendis deleniti odit! Dicta.</p>
-                                <p><b>Quid ait Aristoteles reliquique Platonis alumni?</b> <a href='#' target='_blank'>Praeteritis, inquit, gaudeo.</a> Cetera illa adhibebat, quibus demptis negat se Epicurus intellegere quid sit bonum. Hoc enim constituto in philosophia constituta sunt omnia. Et non ex maxima parte de tota iudicabis? Tum ille timide vel potius verecunde: Facio, inquit. </p>
-                                <h6 class="heading uppercase padding-onlytop-sm">Description Trek</h6>
-                                <p class="padding-onlytop-sm">Summus dolor plures dies manere non potest? <b>Cur deinde Metrodori liberos commendas?</b> Neque enim civitas in seditione beata esse potest nec in discordia dominorum domus; Iam doloris medicamenta illa Epicurea tamquam de narthecio proment: Si gravis, brevis; Sed haec quidem liberius ab eo dicuntur et saepius. <a href='#' target='_blank'>Tubulo putas dicere?</a> Maximas vero virtutes iacere omnis necesse est voluptate dominante. Primum quid tu dicis breve? Ita fit cum gravior, tum etiam splendidior oratio. Quod autem satis est, eo quicquid accessit, nimium est; </p>
+                                <p>Gunung Andong adalah sebuah gunung yang terletak di Provinsi Jawa Tengah, Indonesia. Gunung ini memiliki ketinggian sekitar 1.726 meter di atas permukaan laut. Gunung Andong terletak di antara Kabupaten Magelang dan Kabupaten Temanggung.</p>
+                                <p>Gunung Andong memiliki keindahan alam yang menarik, dengan pemandangan yang memukau dan udara yang segar. Gunung ini dikenal sebagai salah satu destinasi pendakian yang populer di wilayah tersebut. Rute pendakian yang sering digunakan adalah melalui Desa Plumbungan, Kabupaten Temanggung.</p>
+                                <p>Selama pendakian, para pendaki akan melewati jalur yang cukup menantang namun menyenangkan. Di sepanjang perjalanan, pengunjung dapat menikmati pemandangan alam yang indah, seperti hutan yang hijau dan pepohonan yang rindang. Di puncak Gunung Andong, pengunjung akan disuguhi panorama luar biasa, termasuk pemandangan Kota Magelang dan kawasan sekitarnya.</p>
+                                <p>Selain pendakian, Gunung Andong juga menawarkan aktivitas lain seperti camping dan hiking. Banyak pendaki yang memilih untuk menghabiskan waktu semalam di sekitar gunung untuk menikmati keindahan alam malam dan matahari terbit yang spektakuler.</p>
+                                <p>Gunung Andong merupakan tempat yang ideal bagi para pecinta alam dan pendaki yang ingin menikmati keindahan alam serta mencari pengalaman petualangan yang menarik.</p>
+                                <h6 class="heading uppercase padding-onlytop-sm"><b>Deskripsi Trek</b></h6>
+                                <p><b>1. Jalur Pendakian Gunung Andong via Sawit</b></p>
+                                <p>Jalur pendakian Gunung Andong via Sawit merupakan jalur pendakian Gunung Andong terfavorit bagi para pendaki. Hal ini karena jalur Sawit terlebih dulu viral dan dikenal banyak orang melalui sosial media. Selain karena terkenal lebih dahulu, jalur Sawit juga merupakan jalur pendakian yang mudah untuk para pendaki pemula. Jalur pendakiannya relatif landai, jarak tempuhnya pendek dan cepat sampai ke puncak Andong. Lokasi basecamp pendakian Gunung Andong via Sawit terletak di Dusun Sawit, RT.003/RW.03, Nongkosawit, Girirejo, Kec. Ngablak, Kabupaten Magelang. Kamu dapat menuju basecamp dengan menggunakan motor atau mobil. Akses jalan sudah baik dan nyaman.</p>
+                                <p>5 alasan lain kenapa kamu harus mencoba mendaki Gunung Andong via Sawit.</p>
                                 <ul class="post margin-bottom">
-                                    <li>Hoc loco discipulos quaerere videtur, ut, qui asoti esse velint, philosophi ante fiant.</li>
-                                    <li>Quid ergo aliud intellegetur nisi uti ne quae pars naturae neglegatur?</li>
-                                    <li>Et quidem Arcesilas tuus, etsi fuit in disserendo pertinacior, tamen noster fuit;</li>
-                                    <li>Quam ob rem tandem, inquit, non satisfacit?</li>
-                                    <li>Ergo ita: non posse honeste vivi, nisi honeste vivatur?</li>
-                                    <li>Videsne igitur Zenonem tuum cum Aristone verbis concinere, re dissidere, cum Aristotele et illis re consentire, verbis discrepare?</li>
-                                    <li>Dat enim intervalla et relaxat.</li>
+                                    <li>Akses menuju basecamp mudah dengan jalan aspal yang lebar. Petunjuk jalan menuju basecamp sangat jelas dan jalan tidak begitu curam.</li>
+                                    <li>Terdapat sumber air di jalur pendakian.</li>
+                                    <li>Jalur pendakian relatif mudah, landai dan cepat.</li>
+                                    <li>Panorama alam di puncak Andong sangat epik.</li>
+                                    <li>Terdapat banyak warung warga yang ada di setiap pos pendakian hingga di area camping dekat puncak Andong.</li>
                                 </ul>
-                                <div class="table-responsive shadow">
-                                    <table class="table">
-                                        <tbody>
-                                            <tr>
-                                                <th>Partecipans</th>
-                                                <th>Start date</th>
-                                                <th>Duration</th>
-                                                <th>Price</th>
-                                            </tr>
-                                            <tr>
-                                                <td>1</td>
-                                                <td>22/08/2017</td>
-                                                <td>1 days</td>
-                                                <td>$230</td>
-                                            </tr>
-                                            <tr>
-                                                <td>4</td>
-                                                <td>28/08/2017</td>
-                                                <td>2 days</td>
-                                                <td>$800</td>
-                                            </tr>
-                                            <tr>
-                                                <td>20</td>
-                                                <td>1/09/2017</td>
-                                                <td>2 days</td>
-                                                <td>$1800</td>
-                                            </tr>
-                                        </tbody>
-                                    </table>
-                                </div>
+                                <p><b>2. Jalur Pendakian Gunung Andong via Pendem</b></p>
+                                <p>Jalur Pendem merupakan jalur pendakian Gunung Andong dari pintu masuk dusun Pendem, Ngablak, Magelang. Sebagian besar jalur pendakian masih berupa jalan setapak tanah. Dan pemandangan selama pendakian masih asri karena kamu akan melintasi hutan Gunung Andong yang rindang penuh pepohonan. Jika kita lihat dari tingkat kesulitan medan pendakian, jalur pendem memiliki medan pendakian yang relatif mudah dan jarak tempuhnya dekat. Jadi, jalur pendakian Gunung Andong via Pendem sangat cocok untuk pendaki pemula. Maka tak heran, jika jalur Pendem merupakan jalur terpopuler kedua untuk mendaki Gunung Andong setelah jalur Sawit.</p>
+                                <p>5 alasan kenapa jalur pendakian Gunung Andong via Pendem disukai banyak pendaki:</p>
+                                <ul class="post margin-bottom">
+                                    <li>Medan pendakian relatif mudah, cocok untuk pendaki pemula maupun pendaki wanita</li>
+                                    <li>Ada gazebo yang bisa buat rehat. Di area gazebo ada colokan buat ngecharge HP secara gratis</li>
+                                    <li>Jarak tempuh pendakian relatif dekat.</li>
+                                    <li>Pemandangan selama perjalanan dan saat berada di puncak Andong sangat memesona.</li>
+                                    <li>Banyak spot foto cantik berlatar alam yang masih asri dari mulai pendakian hingga sampai puncak Andong.</li>
+                                </ul>
+                                <p><b>3. Jalur Pendakian Gunung Andong via Gogik</b></p>
+                                <p>Jalur Gogik merupakan jalur pendakian Gunung Andong dari pintu masuk dusun Gogik. Lokasinya masih di satu kecamatan yang sama dengan jalur Pendem, yaitu di kecamatan Ngablak, Magelang. Dari jalur Gogik kamu akan melewati hutan bambu dan hutan pinus dengan jalan yang memutar melewati perbukitan. Dan nanti di pos 2, jalur Gogik dan jalur pendem akan menyatu dan ujungnya di puncak Alap-alap.</p>
+                                <p>3 alasan kenapa jalur pendakian Gunung Andong via Gogik disukai banyak pendaki:</p>
+                                <ul class="post margin-bottom">
+                                    <li>Jalur pendakian relatif landai karena memutari bukit. Jadi, cocok untuk pendaki pemula dan pendaki wanita.</li>
+                                    <li>Jarak tempuh pendakian relatif pendek. Kamu hanya perlu waktu 1-2 jam, kamu bisa sampai ke Puncak Alap-alap dan Puncak Andong.</li>
+                                    <li>Banyak spot foto cantik berlatar alam yang masih asri.</li>
+                                </ul>
                             </div>
                         </div>
                     </div>
@@ -287,16 +279,6 @@
                         </div>
                     </div>
                     <!--  END Share Btn  -->
-                   
-                    <!-- Call to Action -->
-                    <div class="row text margin-leftright-null color-background">
-                        <div class="col-md-12 text-center">
-                            <h4 class="big white">Would you like more info about this trip?</h4>
-                            <h4 class="big margin-bottom-small white">Call us at <a href="" class="btn-pro simple white">+40 45615654</a> or</h4>
-                            <a href="#" target="_blank" class="btn-alt small white margin-null active shadow">Contact us</a>
-                        </div>
-                    </div>
-                    <!-- END Call to Action -->
                 </div>
             </div>
             <!--  END Page Content, class footer-fixed if footer is fixed  -->

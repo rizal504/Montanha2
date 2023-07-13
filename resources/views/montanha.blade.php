@@ -447,7 +447,6 @@
                                 Kota Semarang, Jawa Tengah, Indonesia</br></a></li>
                             </ul>
                     </div>
-
                     
                 </div>
 

@@ -215,51 +215,37 @@
                                 <!-- <p class="heading center grey margin-bottom-null">Lorem ipsum dolor sit amet, consectetur adipisicing elit</p> -->
                             </div>
                             <div class="col-md-12 text">
-                                <p>Gunung Ungaran adalah sebuah gunung yang terletak di Jawa Tengah, Indonesia. Dengan ketinggian mencapai 2.050 meter di atas permukaan laut, Gunung Ungaran menawarkan pengalaman pendakian yang menarik bagi para pecinta alam dan pendaki. Gunung ini memiliki tingkat kesulitan sedang hingga menengah, sehingga cocok untuk pendaki dengan tingkat pengalaman yang beragam.</br></p>
-                                <p>Gunung Ungaran memiliki beberapa jalur trek yang dapat dipilih oleh pendaki. Jalur pendakian yang umum digunakan adalah melalui Jalur Mangli, yang dimulai dari Desa Mangli di Kabupaten Semarang. Jalur ini melewati hutan tropis yang lebat dengan pemandangan alam yang indah. Terdapat juga jalur pendakian melalui Jalur Bandungan, yang dimulai dari Desa Bandungan di Kabupaten Semarang. Jalur ini menawarkan pemandangan yang spektakuler dengan hamparan perkebunan dan pegunungan.</br></p>
-                                <p>Gunung Ungaran tidak dikategorikan sebagai gunung api aktif. Oleh karena itu, tidak ada aktivitas vulkanik yang signifikan yang harus dikhawatirkan. Namun, tetap penting untuk memperhatikan kondisi cuaca dan memperoleh informasi terkini tentang kondisi jalur sebelum melakukan pendakian.</br></p>
-                                <p>Pendakian solo di Gunung Ungaran memungkinkan, namun perlu dipertimbangkan dengan baik. Persiapan yang matang, pengetahuan dasar tentang hiking dan navigasi, serta perlengkapan pendakian yang memadai sangat diperlukan. Selain itu, disarankan untuk selalu menjaga keselamatan dan melaporkan rencana pendakian Anda kepada orang lain sebelum memulai perjalanan. Durasi pendakian Gunung Ungaran dapat bervariasi tergantung pada kondisi fisik dan kecepatan pendaki, serta jalur trek yang dipilih. Secara umum, pendakian Gunung Ungaran dapat memakan waktu sekitar 4-6 jam untuk mencapai puncak, tergantung pada kecepatan dan kondisi pendaki.</br></p>
-                                <!-- <p><b>Quid ait Aristoteles reliquique Platonis alumni?</b> <a href='#' target='_blank'>Praeteritis, inquit, gaudeo.</a> Cetera illa adhibebat, quibus demptis negat se Epicurus intellegere quid sit bonum. Hoc enim constituto in philosophia constituta sunt omnia. Et non ex maxima parte de tota iudicabis? Tum ille timide vel potius verecunde: Facio, inquit. </p>
-                                <h6 class="heading uppercase padding-onlytop-sm">Description Trek</h6>
-                                <p class="padding-onlytop-sm">Summus dolor plures dies manere non potest? <b>Cur deinde Metrodori liberos commendas?</b> Neque enim civitas in seditione beata esse potest nec in discordia dominorum domus; Iam doloris medicamenta illa Epicurea tamquam de narthecio proment: Si gravis, brevis; Sed haec quidem liberius ab eo dicuntur et saepius. <a href='#' target='_blank'>Tubulo putas dicere?</a> Maximas vero virtutes iacere omnis necesse est voluptate dominante. Primum quid tu dicis breve? Ita fit cum gravior, tum etiam splendidior oratio. Quod autem satis est, eo quicquid accessit, nimium est; </p>
+                                <p>Gunung Ungaran adalah gunung di Provinsi Jawa Tengah, Indonesia, dengan ketinggian sekitar 2.050 meter di atas permukaan laut. Gunung ini menjadi salah satu destinasi pendakian yang populer di wilayah tersebut. Keindahan alamnya menakjubkan dan menyajikan pemandangan spektakuler.</p>
+                                <p>Terdapat beberapa jalur pendakian yang dapat dipilih, seperti melalui Desa Bawen atau Desa Gedong Songo. Kedua jalur ini menawarkan pengalaman pendakian yang menantang namun memuaskan. Pendaki akan melewati hutan yang lebat dengan flora dan fauna yang beragam. Ada juga titik peristirahatan di sepanjang perjalanan untuk menikmati pemandangan indah sekitar.</p>
+                                <p>Daya tarik utama Gunung Ungaran adalah kompleks Gedong Songo yang terdiri dari tujuh candi Hindu kuno. Dari puncak Gunung Ungaran, pengunjung dapat menikmati panorama pegunungan yang menghampar dan melihat Gunung Merbabu, Gunung Merapi, serta Kota Semarang pada cuaca yang cerah.</p>
+                                <p>Selain pendakian, Gunung Ungaran juga populer untuk camping dan trekking. Banyak pendaki yang menghabiskan waktu semalam di sekitar gunung untuk menikmati keindahan alam malam dan langit berbintang.</p>
+                                <p>Secara keseluruhan, Gunung Ungaran merupakan destinasi yang cocok bagi pecinta alam, pendaki, dan penggemar petualangan yang ingin menikmati keindahan alam serta menguji keterampilan mendaki mereka.</p>
+                                <h6 class="heading uppercase padding-onlytop-sm"><b>Deskripsi Trek</b></h6>
+                                <p><b>1.Jalur pendakian Gunung Ungaran via Mawar</b></p>
+                                <p>Jalur pendakian Gunung Ungaran via Mawar merupakan jalur pendakian Gunung Ungaran favorit para pendaki pemula. Karena jalur Mawar memiliki jalur yang relatif landai, waktu tempuh cepat dan area camping ground yang nyaman.
+                                Lokasi basecamp pendakian Gunung Ungaran via Mawar berada di Kluwihan, Sidomukti, Kec. Bandungan, Kabupaten Semarang. Dari pasar Jimbaran, kamu ambil arah naik searah dengan jalan menuju objek wisata Umbul Sidomukti. Dari Umbul Sidomukti nanti naik lagi ke arah Mawar Camp – Gunung Ungaran.</p>
+                                <p>5 alasan lain kenapa kamu harus mencoba mendaki Gunung Ungaran via Mawar:</p>
                                 <ul class="post margin-bottom">
-                                    <li>Hoc loco discipulos quaerere videtur, ut, qui asoti esse velint, philosophi ante fiant.</li>
-                                    <li>Quid ergo aliud intellegetur nisi uti ne quae pars naturae neglegatur?</li>
-                                    <li>Et quidem Arcesilas tuus, etsi fuit in disserendo pertinacior, tamen noster fuit;</li>
-                                    <li>Quam ob rem tandem, inquit, non satisfacit?</li>
-                                    <li>Ergo ita: non posse honeste vivi, nisi honeste vivatur?</li>
-                                    <li>Videsne igitur Zenonem tuum cum Aristone verbis concinere, re dissidere, cum Aristotele et illis re consentire, verbis discrepare?</li>
-                                    <li>Dat enim intervalla et relaxat.</li>
-                                </ul> -->
+                                    <li>Jalur pendakiannya relatif pendek dan ramah untuk pendaki pemula.</li>
+                                    <li>Terdapat camping ground yang nyaman dengan fasilitas yang lengkap.</li>
+                                    <li>Terdapat sumber air di jalur pendakian.</li>
+                                    <li>Pemandangan alam di jalur pendakian sangat indah.</li>
+                                    <li>Banyak lokasi ngecamp yang strategis.</li>
+                                </ul>
+
+                                <p><b>2.Jalur Pendakian Gunung Ungaran via Parantunan</b></p>
+                                <p>Jalur Perantunan merupakan jalur pendakian Gunung Ungaran dari sisi selatan Gunung Ungaran. Melalui jalur Parantunan, kamu dapat mendaki ketiga puncak sekaligus, yaitu Puncak Bondolan, Puncak Botak dan Puncak Tugu Banteng Raiders.
+                                Memang jalur Parantunan tidak sepopuler jalur Mawar, tapi jalur ini menawarkan pengalaman mendaki yang istimewa. Karena jalur pendakiannya relatif landai, jarak antar posnya dekat dan jalur pendakian didominasi oleh jalan tanah.</p>
+                                <p>5 alasan lain kenapa kamu harus mencoba mendaki Gunung Ungaran via Gunung Parantunan:</p>
+                                <ul class="post margin-bottom">
+                                    <li>Jalur pendakiannya relatif pendek dan ramah untuk pendaki pemula.</li>
+                                    <li>Terdapat camping ground yang nyaman dengan fasilitas yang lengkap.</li>
+                                    <li>Terdapat sumber air di jalur pendakian.</li>
+                                    <li>Pemandangan alam di jalur pendakian sangat indah.</li>
+                                    <li>Banyak lokasi ngecamp yang strategis.</li>
+                                </ul>
+
                                 <div class="table-responsive shadow">
-                                    <!-- <table class="table">
-                                        <tbody>
-                                            <tr>
-                                                <th>Partecipans</th>
-                                                <th>Start date</th>
-                                                <th>Duration</th>
-                                                <th>Price</th>
-                                            </tr>
-                                            <tr>
-                                                <td>1</td>
-                                                <td>22/08/2017</td>
-                                                <td>1 days</td>
-                                                <td>$230</td>
-                                            </tr>
-                                            <tr>
-                                                <td>4</td>
-                                                <td>28/08/2017</td>
-                                                <td>2 days</td>
-                                                <td>$800</td>
-                                            </tr>
-                                            <tr>
-                                                <td>20</td>
-                                                <td>1/09/2017</td>
-                                                <td>2 days</td>
-                                                <td>$1800</td>
-                                            </tr>
-                                        </tbody>
-                                    </table> -->
                                 </div>
                             </div>
                         </div>
@@ -289,17 +275,6 @@
                             </a>
                         </div>
                     </div>
-                    <!--  END Share Btn  -->
-                    
-                    <!-- Call to Action -->
-                    <!-- <div class="row text margin-leftright-null color-background">
-                        <div class="col-md-12 text-center">
-                            <h4 class="big white">Would you like more info about this trip?</h4>
-                            <h4 class="big margin-bottom-small white">Call us at <a href="" class="btn-pro simple white">+40 45615654</a> or</h4>
-                            <a href="#" target="_blank" class="btn-alt small white margin-null active shadow">Contact us</a>
-                        </div>
-                    </div> -->
-                    <!-- END Call to Action -->
                 </div>
             </div>
             <!--  END Page Content, class footer-fixed if footer is fixed  -->

@@ -92,7 +92,7 @@
            <div id="page-content" class="header-static footer-fixed">
                 <div id="flexslider" class="fullpage-wrap small">
                     <ul class="slides">
-                        <li style="background-image:url(/assets/img/artikel1.jpg)">
+                        <li style="background-image:url(/assets/img/forum.jpg)">
                             <div class="container text text-center">
                                 <h1 class="white margin-bottom-small">Question Show</h1>
                                 <p class="heading white">Explore pengalamanmu dengan mendaki gunung di Jawa Tegah</p>
@@ -246,10 +246,10 @@
                     </section>
                     </div>
                     <div class="row margin-leftright-null color-background">
-                        <div class="col-md-12 text text-center">
+                        <!-- <div class="col-md-12 text text-center">
                             <h4 class="big white margin-bottom-small">Would you like more info about other trips?</h4>
                             <a href="#" target="_blank" class="btn-alt small white margin-null active shadow">Contact us</a>
-                        </div>
+                        </div> -->
                     </div>
                 </div>
             </div>

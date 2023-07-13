@@ -211,16 +211,11 @@
                                 <p>Salah satu daya tarik Gunung Sindoro adalah keindahan alam di sekitar puncak, yang meliputi lahan terbuka luas yang sering disebut "Padang Savana" atau "Bukit Teletubbies" karena keindahannya yang mirip dengan pemandangan di acara televisi anak-anak Teletubbies. Selain itu, Gunung Sindoro juga memiliki kompleks candi yang terkenal sebagai kompleks Candi Arjuna, yang menjadi objek wisata budaya dan sejarah yang sering dikunjungi oleh wisatawan.
                                 <p>Gunung Sindoro menjadi destinasi populer bagi para pendaki yang mencari tantangan dan keindahan alam yang luar biasa. Pemandangan spektakuler, pengalaman mendaki yang menantang, serta keberagaman alam dan nilai sejarah yang dimiliki Gunung Sindoro menjadikannya tempat petualangan yang tak terlupakan bagi pecinta alam dan para pendaki yang ingin menjelajahi keajaiban alam Pulau Jawa.</p>
                                 <h6 class="heading uppercase padding-onlytop-sm"><b>Deskripsi Trek</b></h6>
-                                <p><b>1.Jalur pendakian Gunung Slamet via Bambangan</b></p>
-                                <p>Jalur pendakian via Bambangan disebut jalur paling dikenal dan disarankan untuk pendaki karena sudah dikelola dengan baik.
-                                Saking populernya, jalur ini selalu ramai baik pada akhir pekan maupun hari libur nasional.
-                                Jalur via Bambangan memiliki durasi pendakian paling pendek bila dibandingkan dengan jalur lainnya.
-                                Dengan durasi 7-8 jam melewati 9 pos, Anda dapat mencapai puncak Gunung Slamet.
-                                Lama pendakian normalnya 2-3 hari, dengan lokasi berkemah yang ideal di Pos 5 yang terdapat sumber air dan Pos 7.
-                                Di jalur ini, tersedia basecamp yang kondisinya baik dan warung untuk memenuhi kebutuhan logistik selama pendakian.
-                                Anda juga bisa menemukan jasa porter atau pemandu dengan mudah di jalur pendakian Gunung Slamet via Bambangan.
-                                Jalur via Bambangan berlokasi di Jalan Raya Gunung, Bambangan, Kutabawa, Kecamatan Karangreja, Purbalingga, Jawa Tengah.</p>
-                                <p>5 alasan lain kenapa kamu harus mencoba mendaki Gunung Slamet via Bambangan:</p>
+                                <p><b>1.Jalur pendakian Gunung Sindoro via Kledung</b></p>
+                                <p>Jalur pendakian Gunung Sindoro lewat Kledung adalah jalur pertama yang populer dilalui oleh para petualang. Berlokasi di Desa Kledung, untuk menuju basecamp ini, kamu perlu naik bus jurusan Magelang – Wonosobo dan turun di Desa Kledung.
+                                Dari basecamp ke Pos 1 di jalur Kledung ini akan dilengkapi dengan jalan bebatuan melewati lahan pertanian penduduk. Karena sudah cukup populer bahwa jalan ini adalah jalan pendakian ke Gunung Sindoro, pada akhirnya banyak jasa ojek yang menunggu kamu di sana.
+                                Jika kamu lebih memilih trekking, setidaknya kamu akan melampaui waktu perjalanan sekitar 45 menit sampai 1 jam. Setelah melewati batas lahan pertanian penduduk, kamu kan bertemu dengan hutan dan akan sampai di Watu Gede di ketinggian 1.900 mdpl.</p>
+                                <p>5 alasan lain kenapa kamu harus mencoba mendaki Gunung Slamet via Kledung:</p>
                                 <ul class="post margin-bottom">
                                     <li>Keindahan alam yang memukau.</li>
                                     <li>Aksesibilitas yang baik.</li>
@@ -229,52 +224,16 @@
                                     <li>Panorama puncak yang menakjubkan</li>
                                 </ul>
 
-                                <p><b>2.Jalur Pendakian Gunung Slamet via Gunung Malang</b></p>
-                                <p>Gunung Malang terletak di sisi selatan Gunung Slamet dan termasuk salah satu jalur pendakian yang cocok untuk pemula.
-                                Jalur yang terletak tidak jauh dari jalur via Bambangan ini telah diresmikan oleh PA Gunung Slamet dan Perhutani.
-                                Medan yang akan Anda lalui cukup ringan sampai dengan Pos 3 lalu mulai menanjak terus sampai ke Pos 5 alias puncak Gunung Malang.
-                                Setelah itu, trek pendakian menurun, hingga tiba di pos puncak Gunung Slamet.
-                                Keseluruhan pos diperkirakan dapat dicapai dalam jangka waktu 8-9 jam tergantung kecepatan pendakian. 
-                                Anda dapat menemukan sumber air di Pos 3 dan Pos 4 dan idealnya berkemah di Pos 6.
-                                Basecamp pendakian via Gunung Malang terletak di Clekatakan, Pulosari, Kabupaten Pemalang, Jawa Tengah.</p>
-                                <p>5 alasan lain kenapa kamu harus mencoba mendaki Gunung Slamet via Gunung Malang:</p>
+                                <p><b>2.Jalur Pendakian Gunung Sindoro via Sikatok/b></p>
+                                <p>Berlokasi di Desa Sigedang, Tambi – jalur pendakian Gunung Sindoro juga populer lewat Sikatok. Hal ini dikarenakan oleh predikat jalur pendakian tercepat untuk sampai ke Puncak Sindoro. Jalur ini akan mengajak kamu untuk melewati perkebunan teh yang sangat luas.
+                                Perjalanan dari basecamp menuju pintu masuk kebun teh Sikatok bisa kamu lakukan dengan trekking selama 20 menit atau naik ojek saja.
+                                Dari pertigaan menuju Pos 1, kamu dapat tempuh dengan estimasi waktu pendakian 20 menit saja. Kemudian, dari pos 1 ke pos 2 – dapat ditempuh dengan waktu sekitar 30 menit berjalan melalui jalan setapak yang masih di tengah-tengah kebun teh tersebut.
+                                Dari Pos 2 ke Pos 3 akan ditandai dengan berakhirnya kebun teh tersebut. Setelah itu, kamu akan menanjak selama 3 jam yang akan mengantarkan kamu sampai ke Tebing Jeblugan Alit atau Watu Susu. Dari Watu Susu ke Sabana, bisa kamu tempuh 1.5 jam saja.</p>
+                                <p>5 alasan lain kenapa kamu harus mencoba mendaki Gunung Sindoro via Gunung Sikatok:</p>
                                 <ul class="post margin-bottom">
                                     <li>Keindahan alam yang memukau.</li>
                                     <li>Kesendirian dan kedamaian.</li>
                                     <li>Tantangan pendakian yang menarik.</li>
-                                    <li>Keberagaman flora dan fauna.</li>
-                                    <li>Panorama puncak yang menakjubkan</li>
-                                </ul>
-
-                                <p><b>3.Jalur Pendakian Gunung Slamet via Dipajaya</b></p>
-                                <p>Jalur pendakian Gunung Slamet via Dipajaya adalah alternatif lain di jalur via Bambangan. 
-                                Anda akan melewati Pos 1 dan Pos 2 yang berbeda dengan jalur Bambangan, lalu dilanjutkan dengan Pos 3 sampai puncak yang sama dengan jalur Bambangan.
-                                Jalur ini memangkas waktu dua jam dari jalur Bambangan sehingga Anda akan lebih cepat sampai ke puncak Gunung Slamet.
-                                Meskipun begitu, jalur via Dipajaya termasuk cukup sulit dengan medan yang terjal dari basecamp sampai Pos 2.
-                                Namun, panorama yang disuguhkan tak hanya pegunungan tetapi juga hamparan pantai utara Jawa yang cukup memanjakan mata.
-                                Selama pendakian, Anda dapat menemukan sumber air di Pos 5 dan berkemah di sana atau di Pos 7. 
-                                Alamat basecamp Dipajaya yaitu di Clekatakan, Pulosari, Kabupaten Pemalang, Jawa Tengah.</p>
-                                <p>5 alasan lain kenapa kamu harus mencoba mendaki Gunung Slamet via Dipajaya:</p>
-                                <ul class="post margin-bottom">
-                                    <li>Keindahan alam yang memukau.</li>
-                                    <li>Pengalaman pendakian yang tenang.</li>
-                                    <li>Tantangan medan yang menarik.</li>
-                                    <li>Keberagaman flora dan fauna.</li>
-                                    <li>Panorama puncak yang menakjubkan</li>
-                                </ul>
-
-                                <p><b>4.Jalur Pendakian Gunung Slamet via Guci</b></p>
-                                <p>Daerah Guci terkenal dengan wisata pemandian air panas dan semakin ramai dengan adanya jalur pendakian Gunung Slamet.
-                                Jalur ini memiliki karakter trek yang panjang dan lebih landai jika dibandingkan dengan jalur pendakian lainnya sehingga cocok untuk pendaki pemula.
-                                Untuk memulai pendakian, Anda dapat memilih tiga basecamp berbeda mulai dari basecamp Permadi, basecamp Gupala, atau basecamp Kompak. 
-                                Kendati relatif landai, jalur pendakian ini memiliki medan beragam, dari trek berbatu, hutan pinus dan hutan tropis, sampai semak belukar dan trek berpasir.
-                                Durasi pendakian normal selama 2-3 hari yang terbagi dalam 5 pos, dengan sumber air tersedia di Pos 4. 
-                                Basecamp jalur pendakian via Guci terletak di Pekandangan, Rembul, Kecamatan Bojong, Tegal, Jawa Tengah.</p>
-                                <p>5 alasan lain kenapa kamu harus mencoba mendaki Gunung Slamet via Guci:</p>
-                                <ul class="post margin-bottom">
-                                    <li>Keindahan alam yang memukau.</li>
-                                    <li>Pengalaman pendakian yang tenang.</li>
-                                    <li>Tantangan medan yang menarik.</li>
                                     <li>Keberagaman flora dan fauna.</li>
                                     <li>Panorama puncak yang menakjubkan</li>
                                 </ul>
@@ -309,17 +268,7 @@
                             </a>
                         </div>
                     </div>
-                    <!--  END Share Btn  -->
-                    
-                    <!-- Call to Action -->
-                    <!-- <div class="row text margin-leftright-null color-background">
-                        <div class="col-md-12 text-center">
-                            <h4 class="big white">Would you like more info about this trip?</h4>
-                            <h4 class="big margin-bottom-small white">Call us at <a href="" class="btn-pro simple white">+40 45615654</a> or</h4>
-                            <a href="#" target="_blank" class="btn-alt small white margin-null active shadow">Contact us</a>
-                        </div>
-                    </div> -->
-                    <!-- END Call to Action -->
+
                 </div>
             </div>
             <!--  END Page Content, class footer-fixed if footer is fixed  -->

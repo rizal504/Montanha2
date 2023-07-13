@@ -5,7 +5,7 @@
         <meta http-equiv="X-UA-Compatible" content="IE=edge">
         <meta name="viewport" content="width=device-width, initial-scale=1">
         <!-- The above 3 meta tags *must* come first in the head; any other head content must come *after* these tags -->
-        <title>Dolomia HTML Template</title>
+        <title>Gunung Prau</title>
 
         <!-- Bootstrap -->
         <link rel="stylesheet" href="assets/css/bootstrap/bootstrap.min.css">
@@ -59,10 +59,10 @@
                         <!--  Header Logo  -->
                         <div id="logo">
                             <a class="navbar-brand" href="index.html">
-                                <img src="assets/img/logo_montanha.png" class="normal" alt="logo">
-                                <img src="assets/img/logo_montanha.png" class="retina" alt="logo">
-                                <img src="assets/img/logo_montanha.png" class="normal white-logo" alt="logo">
-                                <img src="assets/img/logo_montanha.png" class="retina white-logo" alt="logo">
+                                <img src="assets/img/logo1.png" class="normal" alt="logo">
+                                <img src="assets/img/logo1.png" class="retina" alt="logo">
+                                <img src="assets/img/logoputih.png" class="normal white-logo" alt="logo">
+                                <img src="assets/img/logo1.png" class="retina white-logo" alt="logo">
                             </a>
                         </div>
                         <!--  END Header Logo  -->
@@ -105,10 +105,10 @@
                 <!--  Slider  -->
                 <div id="flexslider" class="fullpage-wrap small">
                     <ul class="slides">
-                        <li style="background-image:url(assets/img/foto17.png)">
+                        <li style="background-image:url(assets/img/galeri-1.png)">
                             <div class="container text text-center">
                                 <h1 class="white margin-bottom-small">Gunung Prau</h1>
-                                <p class="heading white">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Unde veniam aperiam rerum quis atque, illum.</p>
+                                <p class="heading white">Explore pengalamanmu dengan mendaki gunung di Jawa Tegah</p>
                             </div>
                             <div class="gradient dark"></div>
                         </li>
@@ -126,10 +126,10 @@
                             <!-- About -->
                             <div class="col-lg-6 padding-leftright-null">
                                 <div data-responsive="parent-height" data-responsive-id="adv" class="text padding-lg-bottom-null">
-                                    <h2 class="margin-bottom-null title line left">Beatiful Trek</h2>
-                                    <p class="heading left grey margin-bottom-null">Discover the wild nature</p>
+                                    <h2 class="margin-bottom-null title line left">About Gunung Prau</h2>
+                                    <p class="heading left grey margin-bottom-null">Let's Explore Gunung Prau</p>
                                     <div class="padding-onlytop-md">
-                                        <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Vero architecto, nesciunt, modi nam reprehenderit eligendi impedit perferendis consequuntur doloribus aliquid officiis ipsa id asperiores eius magnam ut ducimus ipsum dolor nihil molestias commodi quasi sapiente qui explicabo. Soluta, eum, quia.</p>
+                                        <p>Gunung Prau adalah sebuah gunung yang terletak di Jawa Tengah, Indonesia. Dengan ketinggian sekitar 2.565 meter di atas permukaan laut, Gunung Prau merupakan salah satu destinasi pendakian yang populer di antara para pendaki lokal maupun mancanegara. Gunung Prau terletak di wilayah Dieng, Kabupaten Wonosobo. Rute pendakian yang umumnya digunakan adalah melalui Desa Dieng Kulon. Gunung ini menawarkan perjalanan pendakian yang menantang namun menarik dengan pemandangan alam yang luar biasa sepanjang perjalanan.</p>
                                     </div>
                                 </div>
                             </div>
@@ -139,10 +139,14 @@
                                     <div class="grey-background box-shadow text responsive-padding-sm">
                                         <!-- Hiker -->
                                         <div class="hiker">
-                                            <img src="assets/img/hiker1.jpg" alt="">
-                                            <h3 class="">Mountain Guide</h3>
-                                            <span class="meta grey">Name: John Doe</span>
-                                            <span class="meta grey">Nation: Italy</span>
+                                            <img src="assets/img/profil.jpeg" alt="">
+                                            <h3 class="">Contact Person</h3>
+                                            <span class="meta grey">CP 1: 085875663666 (Basecamp Patak Banteng)</span>
+                                            <span class="meta grey">CP 2: 082234135789 (Basecamp Dieng)</span>
+                                            <span class="meta grey">CP 3: 082138949293 (Basecamp Wates)</span>
+                                            <span class="meta grey">CP 4: 085225152221 (Basecamp Kalilembu)</span>
+                                            <span class="meta grey">CP 5: 082220893233 (Basecamp Dwarawati)</span>
+                                            <span class="meta grey">CP 6: 081912914178 (Basecamp Igirmranak)</span>
                                             <ul class="social">
                                                 <li>
                                                     <a href=""><i class="icon ion-social-twitter"></i></a>
@@ -167,7 +171,7 @@
                     <!-- END Section same Height. Child get the parent Height. Set the same id -->
                     <!--  Section Image Background with overlay  -->
                     <div class="row margin-leftright-null grey-background">
-                        <div class="bg-img overlay simple-parallax responsive" style="background-image:url(assets/img/testimonials.jpg)">
+                        <div class="bg-img overlay simple-parallax responsive" style="background-image:url(assets/img/galeri-1.png)">
                            <div class="container">
                                <!-- Trek data -->
                                <div class="text trek-data text-center">
@@ -184,12 +188,12 @@
                                    <div class="col-sm-4 col-md-2">
                                        <i class="pd-icon-camp-bag service big margin-bottom-null white"></i>
                                        <em class="color">Kesulitan</em>
-                                       <h3 class="white">Hight</h3>
+                                       <h3 class="white">Tinggi</h3>
                                    </div>
                                    <div class="col-sm-4 col-md-2">
                                        <i class="pd-icon-male service big margin-bottom-null white"></i>
-                                       <em class="color">Min Grup</em>
-                                       <h3 class="white">20</h3>
+                                       <em class="color">Solo Hiking</em>
+                                       <h3 class="white">TIDAK</h3>
                                    </div>
                                    <div class="col-sm-4 col-md-2">
                                        <i class="pd-icon-watch service big margin-bottom-null white"></i>
@@ -212,52 +216,71 @@
                         <div class="container">
                             <div class="col-md-12 text padding-bottom-null text-center">
                                 <h2 class="margin-bottom-null title line center">More info</h2>
-                                <p class="heading center grey margin-bottom-null">Lorem ipsum dolor sit amet, consectetur adipisicing elit</p>
+                                <!-- <p class="heading center grey margin-bottom-null">Lorem ipsum dolor sit amet, consectetur adipisicing elit</p> -->
                             </div>
                             <div class="col-md-12 text">
-                                <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut aliquid scire se gaudeant? <b>Immo alio genere;</b> <i>Quod vestri non item.</i> Duo Reges: constructio interrete. Est enim effectrix multarum et magnarum voluptatum. Sed quanta sit alias, nunc tantum possitne esse tanta. <i>Sint ista Graecorum;</i> Consequens enim est et post oritur, ut dixi. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Dolore placeat recusandae doloribus laborum, dignissimos nisi sit ea temporibus ut, accusamus, impedit perferendis deleniti odit! Dicta.</p>
-                                <p><b>Quid ait Aristoteles reliquique Platonis alumni?</b> <a href='#' target='_blank'>Praeteritis, inquit, gaudeo.</a> Cetera illa adhibebat, quibus demptis negat se Epicurus intellegere quid sit bonum. Hoc enim constituto in philosophia constituta sunt omnia. Et non ex maxima parte de tota iudicabis? Tum ille timide vel potius verecunde: Facio, inquit. </p>
-                                <h6 class="heading uppercase padding-onlytop-sm">Description Trek</h6>
-                                <p class="padding-onlytop-sm">Summus dolor plures dies manere non potest? <b>Cur deinde Metrodori liberos commendas?</b> Neque enim civitas in seditione beata esse potest nec in discordia dominorum domus; Iam doloris medicamenta illa Epicurea tamquam de narthecio proment: Si gravis, brevis; Sed haec quidem liberius ab eo dicuntur et saepius. <a href='#' target='_blank'>Tubulo putas dicere?</a> Maximas vero virtutes iacere omnis necesse est voluptate dominante. Primum quid tu dicis breve? Ita fit cum gravior, tum etiam splendidior oratio. Quod autem satis est, eo quicquid accessit, nimium est; </p>
+                                <p>Gunung Prau adalah sebuah gunung yang terletak di Jawa Tengah, Indonesia. Dengan ketinggian sekitar 2.565 meter di atas permukaan laut, Gunung Prau merupakan salah satu destinasi pendakian yang populer di antara para pendaki lokal maupun mancanegara.</p>
+                                <p>Gunung Prau terletak di wilayah Dieng, Kabupaten Wonosobo. Rute pendakian yang umumnya digunakan adalah melalui Desa Dieng Kulon. Gunung ini menawarkan perjalanan pendakian yang menantang namun menarik dengan pemandangan alam yang luar biasa sepanjang perjalanan.</p>
+                                <p>Saat pendakian, pendaki akan melewati hutan pinus yang indah, padang rumput yang luas, dan daerah pegunungan yang eksotis. Salah satu daya tarik utama Gunung Prau adalah pemandangan matahari terbit yang menakjubkan dari puncaknya. Ketika cuaca cerah, pendaki dapat menyaksikan panorama spektakuler dengan awan yang membentang di bawah dan pemandangan gunung-gunung lainnya di kejauhan.</p>
+                                <p>Puncak Gunung Prau juga merupakan tempat yang populer untuk berkemah. Banyak pendaki yang memilih untuk menghabiskan malam di puncak gunung untuk menikmati keindahan alam malam yang jauh dari cahaya kota. Suasana yang tenang dan udara segar di sekitar gunung membuat pengalaman berkemah di Gunung Prau menjadi sangat menenangkan.</p>
+                                <p>Selain itu, Gunung Prau juga terkenal dengan formasi batu yang menyerupai sumber air, yang disebut sebagai Candi Cetho. Tempat ini menjadi spot foto yang populer di gunung ini.</p>
+                                <p>Gunung Prau adalah destinasi yang sangat direkomendasikan bagi para pendaki dan pecinta alam yang mencari petualangan dan keindahan alam yang menakjubkan. Dengan panorama alam yang memukau dan pengalaman mendaki yang menantang, Gunung Prau menjadi tujuan yang menarik untuk dieksplorasi.</p>
+                                <h6 class="heading uppercase padding-onlytop-sm"><b>Deskripsi Trek</b></h6>
+                                <p><b>1. Jalur Pendakian Gunung Prau via Patak Banteng</b></p>
+                                <p>Jalur pendakian Gunung Prau via Patakbanteng merupakan jalur pendakian Gunung Prau yang paling digemari oleh para pendaki pemula. Hal ini karena jalur pendakian Gunung Prau via Patakbanteng cenderung mudah, pemandangannya bagus dan fasilitas wisatanya lengkap. Bahkan ada warung warga di samping jalur pendakian. Jadi, pendaki nggak perlu takut kehabisan bekal selama pendakian.</p>
+                                <p>Karena jalur pendakian Patakbanteng sangat populer, jangan kaget jika saat kamu mendaki lewat sana, jalur pendakian penuh sesak oleh para pendaki. Bahkan saat weekend atau libur nasional, jalur pendakian macet. Hal ini karena saking banyaknya pendaki yang baru naik atau baru turun dari puncak Prau via Patakbanteng.</p>
+                                <p>5 alasan kenapa jalur Patak Banteng wajib kamu coba</p>
                                 <ul class="post margin-bottom">
-                                    <li>Hoc loco discipulos quaerere videtur, ut, qui asoti esse velint, philosophi ante fiant.</li>
-                                    <li>Quid ergo aliud intellegetur nisi uti ne quae pars naturae neglegatur?</li>
-                                    <li>Et quidem Arcesilas tuus, etsi fuit in disserendo pertinacior, tamen noster fuit;</li>
-                                    <li>Quam ob rem tandem, inquit, non satisfacit?</li>
-                                    <li>Ergo ita: non posse honeste vivi, nisi honeste vivatur?</li>
-                                    <li>Videsne igitur Zenonem tuum cum Aristone verbis concinere, re dissidere, cum Aristotele et illis re consentire, verbis discrepare?</li>
-                                    <li>Dat enim intervalla et relaxat.</li>
+                                    <li>Pertama, jalur pendakiannya viral di sosial media.</li>
+                                    <li>Kedua, fasilitas wisata lengkap dan pelayanannya bagus.</li>
+                                    <li>Ketiga, rute dan petunjuk jalur pendakian sangat jelas.</li>
+                                    <li>Keempat, waktu tempuh cepat dan medan pendakian relatif mudah.</li>
+                                    <li>Kelima, pemandangan alam yang memukau.</li>
                                 </ul>
-                                <div class="table-responsive shadow">
-                                    <table class="table">
-                                        <tbody>
-                                            <tr>
-                                                <th>Partecipans</th>
-                                                <th>Start date</th>
-                                                <th>Duration</th>
-                                                <th>Price</th>
-                                            </tr>
-                                            <tr>
-                                                <td>1</td>
-                                                <td>22/08/2017</td>
-                                                <td>1 days</td>
-                                                <td>$230</td>
-                                            </tr>
-                                            <tr>
-                                                <td>4</td>
-                                                <td>28/08/2017</td>
-                                                <td>2 days</td>
-                                                <td>$800</td>
-                                            </tr>
-                                            <tr>
-                                                <td>20</td>
-                                                <td>1/09/2017</td>
-                                                <td>2 days</td>
-                                                <td>$1800</td>
-                                            </tr>
-                                        </tbody>
-                                    </table>
-                                </div>
+                                <p><b>2. Jalur Pendakian Gunung Prau via Kalilembu</b></p>
+                                <p>Jalur pendakian Gunung Prau via Kalilembu merupakan jalur pendakian Gunung Prau dari pintu masuk Kalilembu, Dieng.Jalur Kalilembu memang tidak sepopuler jalur pendakian Patakbanteng. Karena akses menuju basecamp cukup jauh dari jalan raya, jarak tempuh ke puncak relatif jauh dan belum viral di sosial media. Namun, jalur Kalilembu memiliki panorama alam yang nggak kalah keren dari jalur-jalur lainnya.</p>
+                                <p>Ada 3 alasan kenapa kamu wajib mencoba mendaki Gunung Prau via Kalilembu:</p>
+                                <ul class="post margin-bottom">
+                                    <li>Pertama, jalur pendakian relatif landai dan tidak terlalu ramai.</li>
+                                    <li>Kedua, mengeksplorasi Gunung Prau dari jalur lain.</li>
+                                    <li>Ketiga, pertemuan 3 jalur. Ternyata jalur Kalilembu ujungnya nanti akan bertemu dengan jalur pendakian lain saat menjelang puncak. Jika beruntung, kamu akan bertemu pendaki dari jalur Dwarawati dan jalur Dieng di pertigaan sebelum tanjakan menuju puncak.</li>
+                                </ul>
+                                <p><b>3. Jalur Pendakian Gunung Prau via Dwarawati</b></p>
+                                <p>Jalur pendakian Gunung Prau via Dwarawati merupakan jalur pendakian yang memiliki pintu masuk dari Dieng Kulon. Lokasi basecamp-nya dekat dengan objek wisata Candi Dwarawati. Makanya, jalur pendakian ini lebih dikenal dengan nama jalur pendakian Dwarawati daripada jalur pendakian Dieng Kulon.</p>
+                                <p>Lokasi basecamp Dwarawati berada di Krajan, Dieng Kulon, Batur, Banjarnegara, Jawa Tengah. Akses transportasinya cukup mudah. Kamu bisa menggunakan motor, mobil, ojek untuk sampai ke basecamp. Jika kamu menggunakan bus jurusan dieng, kamu tinggal berhenti saja di area wisata candi Dwarawati. Setelahnya, kamu tinggal jalan kaki ke basecamp Dwarawati.</p>
+                                <p>3 alasan kenapa kamu wajib coba mendaki Gunung Prau melalui jalur Dwarawati:</p>
+                                <ul class="post margin-bottom">
+                                    <li>Pertama, jalur pendakiannya relatif landai dan jarak tempuhnya pendek (2,75 km).</li>
+                                    <li>Kedua, fasilitas wisata lengkap dan petugas pengelolanya ramah.</li>
+                                    <li>Ketiga, pemandangan alam Gunung Prau dari Dieng Kulon sangat memesona.</li>
+                                </ul>
+                                <p><b>4. Jalur Pendakian Gunung Prau via Dieng</b></p>
+                                <p>Jalur pendakian Gunung Prau via Dieng merupakan jalur pendakian Gunung Prau dari pintu masuk Dieng Wetan. Lokasi basecamp Dieng berada di Kalilembu, Dieng, Wetan, Kabupaten Wonosobo.</p>
+                                <p>Jalur pendakian Dieng cukup landai dan nyaman, tidak terlalu ramai pendaki. Pemandangannya juga bagus. Dan jalur pendakian Dieng nantinya akan bergabung dengan jalur Dwarawati di persimpangan pos 2. Jadi, mungkin kamu akan bertemu pendaki lain dari jalur lain setelah pos 2.</p>
+                                <p>3 alasan kenapa jalur Dieng wajib kamu coba.</p>
+                                <ul class="post margin-bottom">
+                                    <li>Pertama, jalur pendakian Dieng landai dan relatif sepi.</li>
+                                    <li>Kedua, jarak pendakian relatif pendek dan waktu tempuhnya cepat.</li>
+                                    <li>Ketiga, pemandangan alamnya cantik.</li>
+                                </ul>
+                                <p><b>5. Jalur Pendakian Gunung Prau via Igirmranak</b></p>
+                                <p>Jalur pendakian Gunung Prau via Igirmranak merupakan jalur pendakian dari sisi tenggara Gunung Prau. Jalur ini tergolong baru, karena baru diresmikan oleh Perhutani sejak Juni 2017. Lokasi basecamp pendakian berada di desa Igirmranak, kecamatan Kejajar, Wonosobo. Biarpun tergolong baru, jalur pendakian ini sudah di kelola dengan baik, lho. Jadi, nyaman dan aman untuk para pendaki.</p>
+                                <p>Ada 5 alasan kenapa jalur pendakian Igirmranak sangat diminati para pendaki</p>
+                                <ul class="post margin-bottom">
+                                    <li>Pertama, jalur pendakiannya nyaman.</li>
+                                    <li>Kedua, relatif sepi pendaki. Jalur Igirmranak masih relatif sepi pendaki.</li>
+                                    <li>Ketiga, terdapat sumber mata air sampai pos 2.</li>
+                                    <li>Keempat, pemandangan alam dari sisi tenggara Gunung Prau sangat indah.</li>
+                                    <li>Kelima, spot sunrise dan sunset sepanjang jalan.</li>
+                                </ul>
+                                <p><b>6. Jalur Pendakian Gunung Prau via Wates</b></p>
+                                <p>Jalur pendakian Gunung Prau via Wates merupakan jalur pendakian Gunung Prau dari pintu masuk Wates, kabupaten Temanggung. Basecamp Wates berada di Gejungan, Wates, Wonoboyo, Kabupaten Temanggung. Ketinggian basecamp sekitar 1.896 mdpl. Jadi, perjalananmu ke Puncak Prau akan jauh lebih lama daripada saat melewati jalur Patakbanteng maupun Dwarawati.</p>
+                                <p>3 alasan kenapa jalur Wates wajib kamu coba.</p>
+                                <ul class="post margin-bottom">
+                                    <li>Jalur pendakian relatif sepi dan pemandangan alamnya bagus.</li>
+                                    <li>Banyak tempat ngecamp yang nyaman dan posisinya strategis.</li>
+                                    <li>Ada ojek gunung sampai pos 1.</li>
+                                </ul>
                             </div>
                         </div>
                     </div>
@@ -289,13 +312,13 @@
                     <!--  END Share Btn  -->
                     
                     <!-- Call to Action -->
-                    <div class="row text margin-leftright-null color-background">
+                    <!-- <div class="row text margin-leftright-null color-background">
                         <div class="col-md-12 text-center">
                             <h4 class="big white">Would you like more info about this trip?</h4>
                             <h4 class="big margin-bottom-small white">Call us at <a href="" class="btn-pro simple white">+40 45615654</a> or</h4>
                             <a href="#" target="_blank" class="btn-alt small white margin-null active shadow">Contact us</a>
                         </div>
-                    </div>
+                    </div> -->
                     <!-- END Call to Action -->
                 </div>
             </div>

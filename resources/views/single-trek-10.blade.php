@@ -5,7 +5,7 @@
         <meta http-equiv="X-UA-Compatible" content="IE=edge">
         <meta name="viewport" content="width=device-width, initial-scale=1">
         <!-- The above 3 meta tags *must* come first in the head; any other head content must come *after* these tags -->
-        <title>Dolomia HTML Template</title>
+        <title>Gunung Rogojembangan</title>
 
         <!-- Bootstrap -->
         <link rel="stylesheet" href="assets/css/bootstrap/bootstrap.min.css">
@@ -59,10 +59,10 @@
                         <!--  Header Logo  -->
                         <div id="logo">
                             <a class="navbar-brand" href="index.html">
-                                <img src="assets/img/logo_montanha.png" class="normal" alt="logo">
-                                <img src="assets/img/logo_montanha.png" class="retina" alt="logo">
-                                <img src="assets/img/logo_montanha.png" class="normal white-logo" alt="logo">
-                                <img src="assets/img/logo_montanha.png" class="retina white-logo" alt="logo">
+                                <img src="assets/img/logo1.png" class="normal" alt="logo">
+                                <img src="assets/img/logo1.png" class="retina" alt="logo">
+                                <img src="assets/img/logoputih.png" class="normal white-logo" alt="logo">
+                                <img src="assets/img/logo1.png" class="retina white-logo" alt="logo">
                             </a>
                         </div>
                         <!--  END Header Logo  -->
@@ -105,10 +105,10 @@
                 <!--  Slider  -->
                 <div id="flexslider" class="fullpage-wrap small">
                     <ul class="slides">
-                        <li style="background-image:url(assets/img/foto20.png)">
+                        <li style="background-image:url(assets/img/rogo.png)">
                             <div class="container text text-center">
                                 <h1 class="white margin-bottom-small">Gunung Rogojembangan</h1>
-                                <p class="heading white">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Unde veniam aperiam rerum quis atque, illum.</p>
+                                <p class="heading white">Explore pengalamanmu dengan mendaki gunung di Jawa Tegah</p>
                             </div>
                             <div class="gradient dark"></div>
                         </li>
@@ -126,10 +126,10 @@
                             <!-- About -->
                             <div class="col-lg-6 padding-leftright-null">
                                 <div data-responsive="parent-height" data-responsive-id="adv" class="text padding-lg-bottom-null">
-                                    <h2 class="margin-bottom-null title line left">Beatiful Trek</h2>
-                                    <p class="heading left grey margin-bottom-null">Discover the wild nature</p>
+                                    <h2 class="margin-bottom-null title line left">About Gunung Rogojembangan</h2>
+                                    <p class="heading left grey margin-bottom-null">Let's Explore Gunung RogoJembangan</p>
                                     <div class="padding-onlytop-md">
-                                        <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Vero architecto, nesciunt, modi nam reprehenderit eligendi impedit perferendis consequuntur doloribus aliquid officiis ipsa id asperiores eius magnam ut ducimus ipsum dolor nihil molestias commodi quasi sapiente qui explicabo. Soluta, eum, quia.</p>
+                                        <p>Gunung Rogojembangan adalah sebuah gunung yang terdapat di Provinsi Jawa Tengah, Indonesia. Secara administratif gunung ini berada di perbatasan Kabupaten Banjarnegara dan Kabupaten Pekalongan. Gunung ini adalah salah satu puncak dari Pegunungan Serayu Utara yang menjulang di sebalah barat Dataran Tinggi Dieng dengan ketinggian sekitar 2.117 mdpl.</p>
                                     </div>
                                 </div>
                             </div>
@@ -139,10 +139,12 @@
                                     <div class="grey-background box-shadow text responsive-padding-sm">
                                         <!-- Hiker -->
                                         <div class="hiker">
-                                            <img src="assets/img/hiker1.jpg" alt="">
-                                            <h3 class="">Mountain Guide</h3>
-                                            <span class="meta grey">Name: John Doe</span>
-                                            <span class="meta grey">Nation: Italy</span>
+                                            <img src="assets/img/profil.jpeg" alt="">
+                                            <h3 class="">Contact Person</h3>
+                                            <span class="meta grey">CP 1: </span>
+                                            <span class="meta grey">CP 2: </span>
+                                            <span class="meta grey">CP 3: </span>
+                                            <span class="meta grey">CP 4: </span>
                                             <ul class="social">
                                                 <li>
                                                     <a href=""><i class="icon ion-social-twitter"></i></a>
@@ -167,7 +169,7 @@
                     <!-- END Section same Height. Child get the parent Height. Set the same id -->
                     <!--  Section Image Background with overlay  -->
                     <div class="row margin-leftright-null grey-background">
-                        <div class="bg-img overlay simple-parallax responsive" style="background-image:url(assets/img/testimonials.jpg)">
+                        <div class="bg-img overlay simple-parallax responsive" style="background-image:url(assets/img/rogo.png)">
                            <div class="container">
                                <!-- Trek data -->
                                <div class="text trek-data text-center">
@@ -184,12 +186,12 @@
                                    <div class="col-sm-4 col-md-2">
                                        <i class="pd-icon-camp-bag service big margin-bottom-null white"></i>
                                        <em class="color">Kesulitan</em>
-                                       <h3 class="white">Hight</h3>
+                                       <h3 class="white">Tinggi</h3>
                                    </div>
                                    <div class="col-sm-4 col-md-2">
                                        <i class="pd-icon-male service big margin-bottom-null white"></i>
-                                       <em class="color">Solo Trek</em>
-                                       <h3 class="white">-</h3>
+                                       <em class="color">Solo Hiking</em>
+                                       <h3 class="white">TIDAK</h3>
                                    </div>
                                    <div class="col-sm-4 col-md-2">
                                        <i class="pd-icon-watch service big margin-bottom-null white"></i>
@@ -215,49 +217,18 @@
                                 <p class="heading center grey margin-bottom-null">Lorem ipsum dolor sit amet, consectetur adipisicing elit</p>
                             </div>
                             <div class="col-md-12 text">
-                                <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut aliquid scire se gaudeant? <b>Immo alio genere;</b> <i>Quod vestri non item.</i> Duo Reges: constructio interrete. Est enim effectrix multarum et magnarum voluptatum. Sed quanta sit alias, nunc tantum possitne esse tanta. <i>Sint ista Graecorum;</i> Consequens enim est et post oritur, ut dixi. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Dolore placeat recusandae doloribus laborum, dignissimos nisi sit ea temporibus ut, accusamus, impedit perferendis deleniti odit! Dicta.</p>
-                                <p><b>Quid ait Aristoteles reliquique Platonis alumni?</b> <a href='#' target='_blank'>Praeteritis, inquit, gaudeo.</a> Cetera illa adhibebat, quibus demptis negat se Epicurus intellegere quid sit bonum. Hoc enim constituto in philosophia constituta sunt omnia. Et non ex maxima parte de tota iudicabis? Tum ille timide vel potius verecunde: Facio, inquit. </p>
+                                <p>Gunung Argojambangan adalah sebuah gunung yang terdapat di Provinsi Jawa Tengah, Indonesia. Secara administratif gunung ini berada di perbatasan Kabupaten Banjarnegara dan Kabupaten Pekalongan. Gunung ini adalah salah satu puncak dari Pegunungan Serayu Utara yang menjulang di sebalah barat Dataran Tinggi Dieng dengan ketinggian sekitar 2.117 mdpl. Gunung Argojambangan bukan merupakan gunung berapi namun pada masa silam pernah ada aktivitas vulkanik di gunung ini.</p>
+                                <p>Gunung ini memiliki 2 akses pendakian, yang pertama bisa melalui Kecamatan Wanayasa, Kabupaten Banjarnegara dan Kecamatan Petungkriono di Kabupaten Pekalongan. Ada beberapa desa yang mengelilingi kaki gunung ini yaitu: Desa Gumelem, Semego, Tempuran, Wanaraja dan Desa Jatilawang. Namun jalur pendakian yang paling sering dilalui adalah dari Desa Gumelem dan Desa Semego. Puncak gunung ini tidak terlalu lebar kira-kira hanya selebar lapangan badminton, berupa tanah yang datar dan tanpa tumbuhan. Di puncak gunung ini juga terdapat sebuah sumur kecil namun sekarang sudah tak berisi air lagi.</p>
+                                <p>Gunung Argojambangan menjadi salah satu tujuan wisata di Kabupaten Banjarnegara dan Kabupaten Pekalongan. Bagian utara kaki gunung ini merupakan tebing-tebing curam yang dihiasi beberapa air terjun, yang paling terkenal adalah Curug Bajing di Desa Tlogopakis, Kecamatan Petungkriono. Selain itu terdapat Curug Cinde, Curug Watugajah dan Curug Muncar.</p>
                                 <h6 class="heading uppercase padding-onlytop-sm">Description Trek</h6>
-                                <p class="padding-onlytop-sm">Summus dolor plures dies manere non potest? <b>Cur deinde Metrodori liberos commendas?</b> Neque enim civitas in seditione beata esse potest nec in discordia dominorum domus; Iam doloris medicamenta illa Epicurea tamquam de narthecio proment: Si gravis, brevis; Sed haec quidem liberius ab eo dicuntur et saepius. <a href='#' target='_blank'>Tubulo putas dicere?</a> Maximas vero virtutes iacere omnis necesse est voluptate dominante. Primum quid tu dicis breve? Ita fit cum gravior, tum etiam splendidior oratio. Quod autem satis est, eo quicquid accessit, nimium est; </p>
-                                <ul class="post margin-bottom">
-                                    <li>Hoc loco discipulos quaerere videtur, ut, qui asoti esse velint, philosophi ante fiant.</li>
-                                    <li>Quid ergo aliud intellegetur nisi uti ne quae pars naturae neglegatur?</li>
-                                    <li>Et quidem Arcesilas tuus, etsi fuit in disserendo pertinacior, tamen noster fuit;</li>
-                                    <li>Quam ob rem tandem, inquit, non satisfacit?</li>
-                                    <li>Ergo ita: non posse honeste vivi, nisi honeste vivatur?</li>
-                                    <li>Videsne igitur Zenonem tuum cum Aristone verbis concinere, re dissidere, cum Aristotele et illis re consentire, verbis discrepare?</li>
-                                    <li>Dat enim intervalla et relaxat.</li>
-                                </ul>
-                                <div class="table-responsive shadow">
-                                    <table class="table">
-                                        <tbody>
-                                            <tr>
-                                                <th>Partecipans</th>
-                                                <th>Start date</th>
-                                                <th>Duration</th>
-                                                <th>Price</th>
-                                            </tr>
-                                            <tr>
-                                                <td>1</td>
-                                                <td>22/08/2017</td>
-                                                <td>1 days</td>
-                                                <td>$230</td>
-                                            </tr>
-                                            <tr>
-                                                <td>4</td>
-                                                <td>28/08/2017</td>
-                                                <td>2 days</td>
-                                                <td>$800</td>
-                                            </tr>
-                                            <tr>
-                                                <td>20</td>
-                                                <td>1/09/2017</td>
-                                                <td>2 days</td>
-                                                <td>$1800</td>
-                                            </tr>
-                                        </tbody>
-                                    </table>
-                                </div>
+                                <p><b>1. Jalur Pendakian via Bambangan</b></p>
+                                <p>Jalur pendakian via Bambangan disebut jalur paling dikenal dan disarankan untuk pendaki karena sudah dikelola dengan baik. Saking populernya, jalur ini selalu ramai baik pada akhir pekan maupun hari libur nasional. Jalur via Bambangan memiliki durasi pendakian paling pendek bila dibandingkan dengan jalur lainnya. Dengan durasi 7-8 jam melewati 9 pos, Anda dapat mencapai puncak Gunung Slamet. Lama pendakian normalnya 2-3 hari, dengan lokasi berkemah yang ideal di Pos 5 yang terdapat sumber air dan Pos 7. Di jalur ini, tersedia basecamp yang kondisinya baik dan warung untuk memenuhi kebutuhan logistik selama pendakian. Anda juga bisa menemukan jasa porter atau pemandu dengan mudah di jalur pendakian Gunung Slamet via Bambangan. Jalur via Bambangan berlokasi di Jalan Raya Gunung, Bambangan, Kutabawa, Kecamatan Karangreja, Purbalingga, Jawa Tengah.</p>
+                                <p><b>2. Jalur Pendakian via Gunung Malang</b></p>
+                                <p>Gunung Malang terletak di sisi selatan Gunung Slamet dan termasuk salah satu jalur pendakian yang cocok untuk pemula. Jalur yang terletak tidak jauh dari jalur via Bambangan ini telah diresmikan oleh PA Gunung Slamet dan Perhutani. Medan yang akan Anda lalui cukup ringan sampai dengan Pos 3 lalu mulai menanjak terus sampai ke Pos 5 alias puncak Gunung Malang. Setelah itu, trek pendakian menurun, hingga tiba di pos puncak Gunung Slamet. Keseluruhan pos diperkirakan dapat dicapai dalam jangka waktu 8-9 jam tergantung kecepatan pendakian. Anda dapat menemukan sumber air di Pos 3 dan Pos 4 dan idealnya berkemah di Pos 6. Basecamp pendakian via Gunung Malang terletak di Clekatakan, Pulosari, Kabupaten Pemalang, Jawa Tengah.</p>
+                                <p><b>3. Jalur Pendakian via Dipajaya</b></p>
+                                <p>Jalur pendakian Gunung Slamet via Dipajaya adalah alternatif lain di jalur via Bambangan. Anda akan melewati Pos 1 dan Pos 2 yang berbeda dengan jalur Bambangan, lalu dilanjutkan dengan Pos 3 sampai puncak yang sama dengan jalur Bambangan. Jalur ini memangkas waktu dua jam dari jalur Bambangan sehingga Anda akan lebih cepat sampai ke puncak Gunung Slamet. Meskipun begitu, jalur via Dipajaya termasuk cukup sulit dengan medan yang terjal dari basecamp sampai Pos 2. Namun, panorama yang disuguhkan tak hanya pegunungan tetapi juga hamparan pantai utara Jawa yang cukup memanjakan mata. Selama pendakian, Anda dapat menemukan sumber air di Pos 5 dan berkemah di sana atau di Pos 7. Alamat basecamp Dipajaya yaitu di Clekatakan, Pulosari, Kabupaten Pemalang, Jawa Tengah.</p>
+                                <p><b>4. Jalur Pendakian via Guci</b></p>
+                                <p>Daerah Guci terkenal dengan wisata pemandian air panas dan semakin ramai dengan adanya jalur pendakian Gunung Slamet. Jalur ini memiliki karakter trek yang panjang dan lebih landai jika dibandingkan dengan jalur pendakian lainnya sehingga cocok untuk pendaki pemula. Untuk memulai pendakian, Anda dapat memilih tiga basecamp berbeda mulai dari basecamp Permadi, basecamp Gupala, atau basecamp Kompak. Kendati relatif landai, jalur pendakian ini memiliki medan beragam, dari trek berbatu, hutan pinus dan hutan tropis, sampai semak belukar dan trek berpasir. Durasi pendakian normal selama 2-3 hari yang terbagi dalam 5 pos, dengan sumber air tersedia di Pos 4. Basecamp jalur pendakian via Guci terletak di Pekandangan, Rembul, Kecamatan Bojong, Tegal, Jawa Tengah.</p>
                             </div>
                         </div>
                     </div>
@@ -289,13 +260,13 @@
                     <!--  END Share Btn  -->
                     
                     <!-- Call to Action -->
-                    <div class="row text margin-leftright-null color-background">
+                    <!-- <div class="row text margin-leftright-null color-background">
                         <div class="col-md-12 text-center">
                             <h4 class="big white">Would you like more info about this trip?</h4>
                             <h4 class="big margin-bottom-small white">Call us at <a href="" class="btn-pro simple white">+40 45615654</a> or</h4>
                             <a href="#" target="_blank" class="btn-alt small white margin-null active shadow">Contact us</a>
                         </div>
-                    </div>
+                    </div> -->
                     <!-- END Call to Action -->
                 </div>
             </div>

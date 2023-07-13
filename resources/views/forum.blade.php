@@ -40,7 +40,7 @@
 
     <script src="https://oss.maxcdn.com/html5shiv/3.7.2/html5shiv.min.js"></script>
     <script src="https://oss.maxcdn.com/respond/1.4.2/respond.min.js"></script>
-    <![endif]-->
+    
     </head>
     <body>
       
@@ -54,15 +54,19 @@
             <header id="header" class="fixed transparent full-width">
                 <div class="container">
                     <nav class="navbar navbar-default white">
-                        <div id="logo">
-                            <a class="navbar-brand" href="index.html">
-                                <img src="assets/img/logo1.png" class="normal" alt="logo">
-                                <img src="assets/img/logo1.png" class="retina" alt="logo">
-                                <img src="assets/img/logoputih.png" class="normal white-logo" alt="logo">
-                                <img src="assets/img/logo1.png" class="retina white-logo" alt="logo">
-                            </a>
-                        </div>
-                        @include('component.topbar')
+                        <!--  Header Logo  -->
+                    <div id="logo">
+                        <a class="navbar-brand" href="index.html">
+                            <img src="assets/img/logo1.png" class="normal" alt="logo">
+                            <img src="assets/img/logo1.png" class="retina" alt="logo">
+                            <img src="assets/img/logoputih.png" class="normal white-logo" alt="logo">
+                            <img src="assets/img/logo1.png" class="retina white-logo" alt="logo">
+                        </a>
+                    </div>
+                    <!--  END Header Logo  -->
+                    <!--  Classic menu, responsive menu classic  -->
+                    @include('component.topbar')
+                    <!--  END Classic menu, responsive menu classic  -->
                         <div id="menu-responsive-classic">
                             <div class="menu-button">
                                 <span class="bar bar-1"></span>
@@ -92,9 +96,9 @@
            <div id="page-content" class="header-static footer-fixed">
                 <div id="flexslider" class="fullpage-wrap small">
                     <ul class="slides">
-                        <li style="background-image:url(assets/img/artikel1.jpg)">
+                        <li style="background-image:url(assets/img/forum.jpg)">
                             <div class="container text text-center">
-                                <h1 class="white margin-bottom-small">Our Blog</h1>
+                                <h1 class="white margin-bottom-small">Forum</h1>
                                 <p class="heading white">Explore pengalamanmu dengan mendaki gunung di Jawa Tegah</p>
                             </div>
                             <div class="gradient dark"></div>
@@ -143,7 +147,7 @@
                                         
 
                                         <div class="content">
-                                            <h2 class="ans-title">Can’t find an answer?</h2>
+                                            <h2 class="ans-title">Apa yang ingin anda bagikan?</h2>
                                             <p>
                                                 Make use of a qualified tutor to get the answer
                                             </p>
@@ -152,7 +156,7 @@
 
                                     <div class="action-button-container" id="inline-popups">
                                         <button class="action_btn btn-ans" data-toggle="modal" data-target="#{{ auth()->check() ? 'ask' : 'login' }}-modal">Takon saiki</button>
-                                        {{-- <a href="#" class="action_btn btn-ans">Ask a Question</a> --}}
+                                        {{-- <a href="#" class="action_btn btn-ans">Comment</a> --}}
                                         {{-- <a href="#test-popup" data-effect="mfp-zoom-out">Zoom-out</a> --}}
                                     </div>
                                 </div>
@@ -217,12 +221,12 @@
                     </div>
                 </section>
                     </div>
-                    <div class="row margin-leftright-null color-background">
+                    <!-- <div class="row margin-leftright-null color-background">
                         <div class="col-md-12 text text-center">
                             <h4 class="big white margin-bottom-small">Would you like more info about other trips?</h4>
                             <a href="#" target="_blank" class="btn-alt small white margin-null active shadow">Contact us</a>
                         </div>
-                    </div>
+                    </div> -->
                 </div>
             </div>
             

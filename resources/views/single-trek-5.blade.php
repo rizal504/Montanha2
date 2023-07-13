@@ -201,7 +201,7 @@
                                    <div class="col-sm-4 col-md-2">
                                        <i class="pd-icon-distance service big margin-bottom-null white"></i>
                                        <em class="color">Jumlah Trek</em>
-                                       <h3 class="white">4</h3>
+                                       <h3 class="white">5</h3>
                                    </div>
                                </div>
                                <!-- END Trek data -->
@@ -217,52 +217,69 @@
                                 <!-- <p class="heading center grey margin-bottom-null">Lorem ipsum dolor sit amet, consectetur adipisicing elit</p> -->
                             </div>
                             <div class="col-md-12 text">
-                                <p>Gunung Merbabu adalah gunung berapi aktif yang terletak di tiga kabupaten, yaitu Magelang, Boyolali, dan Semarang, di Provinsi Jawa Tengah, Indonesia. Dengan ketinggian mencapai 3.145 meter di atas permukaan laut, Gunung Merbabu menawarkan pengalaman pendakian yang menarik bagi para pecinta alam dan pendaki. Tingkat kesulitan pendakian Gunung Merbabu termasuk dalam kategori sedang hingga menengah.</br></p>
-
-                                <p>Gunung Merbabu memiliki beberapa jalur trek yang dapat dipilih oleh pendaki. Jalur pendakian yang umum digunakan adalah melalui Selo di Kabupaten Boyolali. Jalur ini populer karena pemandangannya yang indah dan aksesibilitasnya yang baik. Terdapat juga jalur pendakian melalui Cunthel di Kabupaten Magelang, yang menawarkan pengalaman pendakian yang menantang namun memuaskan.</br></p>
-
-                                <p>Gunung Merbabu masih dikategorikan sebagai gunung berapi aktif, meskipun tidak ada aktivitas vulkanik yang signifikan dalam beberapa waktu terakhir. Oleh karena itu, selalu perhatikan kondisi cuaca dan peroleh informasi terkini tentang kondisi gunung sebelum melakukan pendakian. Pendakian solo di Gunung Merbabu memungkinkan, tetapi perlu dipersiapkan dengan baik. Persiapan fisik dan mental yang matang, pengetahuan tentang hiking dan navigasi, serta perlengkapan pendakian yang memadai sangat diperlukan. Durasi pendakian Gunung Merbabu dapat bervariasi tergantung pada kondisi fisik dan kecepatan pendaki, serta jalur trek yang dipilih. Secara umum, pendakian Gunung Merbabu memakan waktu sekitar 8-12 jam untuk mencapai puncak, tergantung pada kecepatan dan kondisi pendaki.</br></p>
-                                <!-- <p><b>Quid ait Aristoteles reliquique Platonis alumni?</b> <a href='#' target='_blank'>Praeteritis, inquit, gaudeo.</a> Cetera illa adhibebat, quibus demptis negat se Epicurus intellegere quid sit bonum. Hoc enim constituto in philosophia constituta sunt omnia. Et non ex maxima parte de tota iudicabis? Tum ille timide vel potius verecunde: Facio, inquit. </p>
-                                <h6 class="heading uppercase padding-onlytop-sm">Description Trek</h6>
-                                <p class="padding-onlytop-sm">Summus dolor plures dies manere non potest? <b>Cur deinde Metrodori liberos commendas?</b> Neque enim civitas in seditione beata esse potest nec in discordia dominorum domus; Iam doloris medicamenta illa Epicurea tamquam de narthecio proment: Si gravis, brevis; Sed haec quidem liberius ab eo dicuntur et saepius. <a href='#' target='_blank'>Tubulo putas dicere?</a> Maximas vero virtutes iacere omnis necesse est voluptate dominante. Primum quid tu dicis breve? Ita fit cum gravior, tum etiam splendidior oratio. Quod autem satis est, eo quicquid accessit, nimium est; </p>
-                                <ul class="post margin-bottom">
-                                    <li>Hoc loco discipulos quaerere videtur, ut, qui asoti esse velint, philosophi ante fiant.</li>
-                                    <li>Quid ergo aliud intellegetur nisi uti ne quae pars naturae neglegatur?</li>
-                                    <li>Et quidem Arcesilas tuus, etsi fuit in disserendo pertinacior, tamen noster fuit;</li>
-                                    <li>Quam ob rem tandem, inquit, non satisfacit?</li>
-                                    <li>Ergo ita: non posse honeste vivi, nisi honeste vivatur?</li>
-                                    <li>Videsne igitur Zenonem tuum cum Aristone verbis concinere, re dissidere, cum Aristotele et illis re consentire, verbis discrepare?</li>
-                                    <li>Dat enim intervalla et relaxat.</li>
-                                </ul> -->
+                                <p>Gunung Merbabu merupakan salah satu gunung berapi aktif di Indonesia yang secara administratif berada di tiga kabupaten berbeda, Magelang, Boyolali dan Semarang. Gunung setinggi 3.145 meter dari atas permukaan laut ini pernah dikenal dengan sebutan gunung Damalung/Pamarihan melalui naskah-naskah kuno sebelum Islam masuk ke nusantara.
+                                Sebelum ditetapkan sebagai Taman Nasional pada tahun 2004, gunung Merbabu merupakan kawasan hutan lindung yang dijadikan rumah bagi ratusan satwa dan tanaman hutan yang dilindungi.
+                                Nama "Merbabu" ini secara etimologi berasal dari kata "Meru" dan "Abu" yang berarti Gunung Abu berdasarkan naskah lama peninggalan Belanda. Dari naskah-naskah lama itu pula diketahui gunung Merbabu pernah meletus pada tahun 1560 dan 1797. Ada juga laporan yang menyebutkan gunung ini pernah meletus pada tahun 1570, namun karena tidak pernah dikonfirmasi kebenarannya oleh ahli vulkanologi maka informasi ini masih abu-abu.</p>
                                 <div class="table-responsive shadow">
-                                    <!-- <table class="table">
-                                        <tbody>
-                                            <tr>
-                                                <th>Partecipans</th>
-                                                <th>Start date</th>
-                                                <th>Duration</th>
-                                                <th>Price</th>
-                                            </tr>
-                                            <tr>
-                                                <td>1</td>
-                                                <td>22/08/2017</td>
-                                                <td>1 days</td>
-                                                <td>$230</td>
-                                            </tr>
-                                            <tr>
-                                                <td>4</td>
-                                                <td>28/08/2017</td>
-                                                <td>2 days</td>
-                                                <td>$800</td>
-                                            </tr>
-                                            <tr>
-                                                <td>20</td>
-                                                <td>1/09/2017</td>
-                                                <td>2 days</td>
-                                                <td>$1800</td>
-                                            </tr>
-                                        </tbody>
-                                    </table> -->
+                                <h6 class="heading uppercase padding-onlytop-sm"><b>Deskripsi Trek</b></h6>
+                                <p><b>1.Jalur pendakian Gunung Merbabu via Selo</b></p>
+                                <p>Jalur pendakian gunung Merbabu via Selo merupakan jalur pendakian paling popular di gunung Merbabu. Lokasi basecamp Selo berada di desa Genting Tarubatang, Dusun I, Suroteleng, Selo, Kabupaten Boyolali, Jawa Tengah. Dari pasar Selo, masih naik ke atas lagi untuk sampai ke basecamp.</p>
+                                <p>5 alasan lain kenapa kamu harus mencoba mendaki Gunung Merbabu via Selo:</p>
+                                <ul class="post margin-bottom">
+                                    <li>Jalur pendakiannya landai dan cenderung mudah.</li>
+                                    <li>Pemandangan alam dari jalur Selo sangat indah.</li>
+                                    <li>Pendaki bisa ngecamp di Sabana 2 yang terkenal indah dan memesona.</li>
+                                    <li>Pendaki bisa melihat gunung Merapi yang sangat megah dengan sangat jelas.</li>
+                                    <li>Fasilitas dari pihak pengelola sudah memadai.</li>
+                                </ul>
+
+                                <p><b>2.Jalur Pendakian Gunung Merbabu via Suwanting</b></p>
+                                <p>Jalur pendakian gunung Merbabu via Suwanting adalah jalur pendakian dari arah barat gunung Merbabu. Pintu masuk jalur Suwanting berada di kabupaten Magelang. Lokasi basecamp Suwanting berada di Jl. Suwanting, Suwanting, Banyuroto, Sawangan, Magelang, Jawa Tengah.
+                                Karena pintu masuk jalur pendakian Suwanting berada di bagian barat gunung Merbabu, maka jalur pendakiannya sangat terjal. Karena bagian barat gunung Merbabu berisi deretan bukit yang sangat tinggi dan curam. Beberapa pendaki bahkan menjuluki jalur Suwanting sebagai jalur Merbabu yang nggak ada bonusnya. Dan tidak cocok untuk pendaki pemula. Karena pendaki akan full nanjak sampai puncak.</p>
+                                <p>5 alasan lain kenapa kamu harus mencoba mendaki Gunung Merbabu via Suwanting:</p>
+                                <ul class="post margin-bottom">
+                                    <li>Pendaki bisa melihat pemandangan alam gunung Merbabu dari sisi barat.</li>
+                                    <li>Pendaki dapat melihat matahari terbenam dengan panorama gunung Merapi yang sedang erupsi.</li>
+                                    <li>Pendaki bisa melihat kawah Candradimuka gunung Merbabu dari jalur pendakian.</li>
+                                    <li>Pendaki dapat spot sunrise dan sunset dengan panorama yang indah di puncak Suwanting.</li>
+                                    <li>Pendaki akan mendapatkan pemandangan sabana gunung Merbabu yang beda dari jalur lainnya. Unik dan cantik.</li>
+                                </ul>
+
+                                <p><b>3.Jalur Pendakian Gunung Merbabu via Wekas</b></p>
+                                <p>Jalur pendakian gunung Merbabu via Wekas merupakan jalur pendakian dari sisi barat gunung Merbabu. Gerbang pendakian jalur Wekas berada desa Wekas, Magelang. Lokasi basecamp Wekas berada di Area Sawah/Kebun, Kaponan, Pakis, Magelang, Jawa Tengah. Dulu basecamp pendakian berada di bawah. Semenjak jalanan perkampungan mulai di cor, basecamp Wekas di pindah ke atas. Tujuannya agar jarak pendakian lebih pendek sehingga ramah untuk pendaki pemula.</p>
+                                <p>5 alasan lain kenapa kamu harus mencoba mendaki Gunung Merbabu via Wekas:</p>
+                                <ul class="post margin-bottom">
+                                    <li>Jalur Wekas merupakan jalur tercepat untuk mencapai puncak gunung Merbabu.</li>
+                                    <li>Terdapat sumber air di area pos 2 sehingga pendaki tidak perlu takut kehabisan air untuk minum.</li>
+                                    <li>Jalur pendakian gunung Merbabu via Wekas sudah dilengkapi petunjuk arah berupa PAL HM per 100 m dan PAL Bantu di setiap percabangan jalan.</li>
+                                    <li>Pendaki bisa melihat kawah Candradimuka gunung Merbabu dengan sangat jelas.</li>
+                                    <li>Pemandangan alam mulai dari pos 2 hingga puncak gunung Merbabu sangat memukau.</li>
+                                </ul>
+
+                                <p><b>4.Jalur Pendakian Gunung Merbabu via Cuntel</b></p>
+                                <p>Jalur pendakian gunung Merbabu via Cuntel merupakan jalur pendakian gunung Merbabu dengan jarak tempuh normal. Perjalanan dari basecamp Cuntel sampai puncak Merbabu kurang lebih 6,43 km. Dengan jarak tersebut, jalur Cuntel menjadi jalur pendakian terpanjang dibandingkan dengan jalur pendakian gunung Merbabu lainnya.
+                                Basecamp jalur pendakian Merbabu via Cuntel berada di Jl. UmbulSongo Km.2,5 RT.01/RW.01, Cuntel, Cunta, Kopeng, Kec. Getasan, Semarang, Jawa Tengah. Kawasan basecamp Cuntel berada di kawasan wisata Kopeng. Jadi, kamu akan dengan mudah menemukan basecamp Cuntel. Papan petunjuk arah dan petunjuk via Google Map sangat jelas.</p>
+                                <p>5 alasan lain kenapa kamu harus mencoba mendaki Gunung Merbabu via Cuntel:</p>
+                                <ul class="post margin-bottom">
+                                    <li>Pendaki bisa memasuki kawasan kawah mati Candradimuka gunung Merbabu.</li>
+                                    <li>Pendaki dapat melihat flora & fauna Taman Nasional Gunung Merbabu di hutan Cuntel.</li>
+                                    <li>Jalur Cuntel memiliki sumber air di pos bayangan 2.</li>
+                                    <li>Pendaki bisa mendapatkan pemandangan lautan awan dengan latar belakang gunung Sindoro dan gunung Sumbing yang sangat indah.</li>
+                                    <li>Jalur pendakian memiliki banyak jalan setapak yang landai.</li>
+                                </ul>
+
+                                <p><b>5.Jalur Pendakian Gunung Merbabu via Thekelan</b></p>
+                                <p>Jalur pendakian gunung Merbabu via Thekelan merupakan jalur pendakian gunung Merbabu dari sisi utara. Dengan mendaki dari sisi utara kamu akan mendapatkan pemandangan dari 5 gunung yanag cantik. Di antaranya: gunung Telomoyo, gunung Andong, gunung Ungaran, gunung Sindoro hingga gunung Sumbing.
+                                Gerbang pendakian jalur utara berada di Thekelan, Batur, Kec. Getasan, Semarang, Jawa Tengah. Jalur pendakian Merbabu dari bagian utara cenderung normal. Karena masih banyak terdapat jalur pendakian yang landai dan memutari bukit.</p>
+                                <p>5 alasan lain kenapa kamu harus mencoba mendaki Gunung Merbabu via Thekelan:</p>
+                                <ul class="post margin-bottom">
+                                    <li>Pendaki akan mendapatkan pemandangan 5 gunung cantik dari sisi utara dan barat gunung Merbabu. Kelima pemandangan gunung cantik itu adalah gunung Sindoro, gunung Sumbing, gunung Telomoyo, gunung Andong, hingga gunung Ungaran.</li>
+                                    <li>Ada banyak sumber air di jalur pendakian Thekelan.</li>
+                                    <li>Pendaki bisa mengunjungi kawah mati gunung Merbabu.</li>
+                                    <li>Jalur pendakian Merbabu Via Thekelan memiliki berbagai jenis medan pendakian yang menantang.</li>
+                                    <li>Thekelan merupakan jalur pendakian gunung Merbabu tertua.</li>
+                                </ul>
+
                                 </div>
                             </div>
                         </div>
