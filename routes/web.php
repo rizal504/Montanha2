@@ -100,6 +100,7 @@ Route::get('/regis', function () {
 
 Route::get('/admin', function () {
     return view('admin');
+    
 });
 
 Route::get('/from_admin', function () {
