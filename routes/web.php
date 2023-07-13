@@ -107,6 +107,7 @@ Route::get('/from_admin', function () {
     return view('form_admin');
 });
 
+
 // Route::get('/forum', function () {
 //     return view('forum');
 // });
