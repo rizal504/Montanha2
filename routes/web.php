@@ -108,6 +108,10 @@ Route::get('/from_admin', function () {
 });
 
 
+
+
+
+
 // Route::get('/forum', function () {
 //     return view('forum');
 // });
